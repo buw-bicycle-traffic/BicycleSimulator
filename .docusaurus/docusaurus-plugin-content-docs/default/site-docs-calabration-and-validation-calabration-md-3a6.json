@@ -1,0 +1,27 @@
+{
+  "id": "Calabration_and_Validation/Calabration",
+  "title": "Calabration",
+  "description": "",
+  "source": "@site/docs/Calabration_and_Validation/Calabration.md",
+  "sourceDirName": "Calabration_and_Validation",
+  "slug": "/Calabration_and_Validation/Calabration",
+  "permalink": "/BISIMEYER/docs/Calabration_and_Validation/Calabration",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/buw-bicycle-traffic/docs/Calabration_and_Validation/Calabration.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Calabration and Validation",
+    "permalink": "/BISIMEYER/docs/category/calabration-and-validation"
+  },
+  "next": {
+    "title": "Validation of Bicycle Simulator",
+    "permalink": "/BISIMEYER/docs/Calabration_and_Validation/Valadation"
+  }
+}

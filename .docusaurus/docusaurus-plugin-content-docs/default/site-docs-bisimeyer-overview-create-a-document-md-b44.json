@@ -1,0 +1,27 @@
+{
+  "id": "BISIMEYER Overview/create-a-document",
+  "title": "Equipment Requirements",
+  "description": "XXXXX",
+  "source": "@site/docs/BISIMEYER Overview/create-a-document.md",
+  "sourceDirName": "BISIMEYER Overview",
+  "slug": "/BISIMEYER Overview/create-a-document",
+  "permalink": "/docs/BISIMEYER Overview/create-a-document",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/BISIMEYER Overview/create-a-document.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/docs/BISIMEYER Overview/introduction"
+  },
+  "next": {
+    "title": "Create a Blog Post",
+    "permalink": "/docs/BISIMEYER Overview/create-a-blog-post"
+  }
+}

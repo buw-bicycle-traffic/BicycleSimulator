@@ -1,0 +1,27 @@
+{
+  "id": "Reseach_Methodology/measured_inputs - Copy",
+  "title": "Measured Inputs",
+  "description": "",
+  "source": "@site/docs/Reseach_Methodology/measured_inputs - Copy.md",
+  "sourceDirName": "Reseach_Methodology",
+  "slug": "/Reseach_Methodology/measured_inputs - Copy",
+  "permalink": "/docs/Reseach_Methodology/measured_inputs - Copy",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Reseach_Methodology/measured_inputs - Copy.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Ethics",
+    "permalink": "/docs/Reseach_Methodology/ethics"
+  },
+  "next": {
+    "title": "Measured Inputs",
+    "permalink": "/docs/Reseach_Methodology/measured_inputs"
+  }
+}

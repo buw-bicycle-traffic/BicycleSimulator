@@ -1,0 +1,23 @@
+{
+  "id": "IntroductionBISIM",
+  "title": "BISIMEYER Introduction",
+  "description": "Let's discover The BISIMEYER Standard.",
+  "source": "@site/docs/IntroductionBISIM.md",
+  "sourceDirName": ".",
+  "slug": "/IntroductionBISIM",
+  "permalink": "/BISIMEYER/docs/IntroductionBISIM",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/buw-bicycle-traffic/docs/IntroductionBISIM.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "sidebar_position": 0
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "BISMEYER Overview",
+    "permalink": "/BISIMEYER/docs/category/bismeyer-overview"
+  }
+}

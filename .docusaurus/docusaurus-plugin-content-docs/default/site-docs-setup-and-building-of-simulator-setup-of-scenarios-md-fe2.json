@@ -1,0 +1,27 @@
+{
+  "id": "Setup_and_Building_of_Simulator/Setup_of_Scenarios",
+  "title": "Setup of Scenarios",
+  "description": "In this chapter, we will talk about how to set up your own custom scenario of a real world location.",
+  "source": "@site/docs/Setup_and_Building_of_Simulator/Setup_of_Scenarios.md",
+  "sourceDirName": "Setup_and_Building_of_Simulator",
+  "slug": "/Setup_and_Building_of_Simulator/Setup_of_Scenarios",
+  "permalink": "/BISIMEYER/docs/Setup_and_Building_of_Simulator/Setup_of_Scenarios",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/buw-bicycle-traffic/docs/Setup_and_Building_of_Simulator/Setup_of_Scenarios.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Simulator Setup",
+    "permalink": "/BISIMEYER/docs/Setup_and_Building_of_Simulator/Simulator_Setup"
+  },
+  "next": {
+    "title": "Calabration and Validation",
+    "permalink": "/BISIMEYER/docs/category/calabration-and-validation"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "BISIMEYER Overview/create-a-page",
+  "title": "Introduction",
+  "description": "Welcome to the BISIMeyer Standard, an open source standard for bicycle simulators. This standard is set out to help create a standard in bicycle simulators. As of now there is no set standard of how to build a bicycle simulator and each bicycle simulator that has been so far created has been different by using different software, equipment, and methodology. These simulators are also typically not well documented, leaving other researchers to wonder how the other created their simulator. It also creates a lot of duplication of work, as researchers have to start from the beginning each time researching how to create a bicycle simulator. This open standard hopes to address these issues by being open source, by having open documentation of how everything was done, by using open source software where possible, and by having reliable, replicable, and accurate methodologies, so that the research done with these bicycle simulators can be validated by anyone interested in the field of bicycles simulators.",
+  "source": "@site/docs/BISIMEYER Overview/create-a-page.md",
+  "sourceDirName": "BISIMEYER Overview",
+  "slug": "/BISIMEYER Overview/create-a-page",
+  "permalink": "/docs/BISIMEYER Overview/create-a-page",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/BISIMEYER Overview/create-a-page.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "BISMEYER Overview",
+    "permalink": "/docs/category/bismeyer-overview"
+  },
+  "next": {
+    "title": "Create a Document",
+    "permalink": "/docs/BISIMEYER Overview/create-a-document"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "Setup_and_Building_of_Simulator - Copy/Simulator_Setup",
+  "title": "Simulator Setup",
+  "description": "",
+  "source": "@site/docs/Setup_and_Building_of_Simulator - Copy/Simulator_Setup.md",
+  "sourceDirName": "Setup_and_Building_of_Simulator - Copy",
+  "slug": "/Setup_and_Building_of_Simulator - Copy/Simulator_Setup",
+  "permalink": "/docs/Setup_and_Building_of_Simulator - Copy/Simulator_Setup",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Setup_and_Building_of_Simulator - Copy/Simulator_Setup.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Computer Setup",
+    "permalink": "/docs/Setup_and_Building_of_Simulator - Copy/Computer_Setup"
+  },
+  "next": {
+    "title": "Setup of Scenarios",
+    "permalink": "/docs/Setup_and_Building_of_Simulator - Copy/Setup_of_Scenarios"
+  }
+}

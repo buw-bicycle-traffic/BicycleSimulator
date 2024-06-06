@@ -1,0 +1,27 @@
+{
+  "id": "BISIMEYER Overview/create-a-blog-post",
+  "title": "Create a Blog Post",
+  "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
+  "source": "@site/docs/BISIMEYER Overview/create-a-blog-post.md",
+  "sourceDirName": "BISIMEYER Overview",
+  "slug": "/BISIMEYER Overview/create-a-blog-post",
+  "permalink": "/docs/BISIMEYER Overview/create-a-blog-post",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/BISIMEYER Overview/create-a-blog-post.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Equipment Requirements",
+    "permalink": "/docs/BISIMEYER Overview/Equipment-requirements"
+  },
+  "next": {
+    "title": "Markdown Features",
+    "permalink": "/docs/BISIMEYER Overview/markdown-features"
+  }
+}

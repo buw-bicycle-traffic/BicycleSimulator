@@ -1,0 +1,27 @@
+{
+  "id": "Reseach_Methodology/ethics",
+  "title": "Ethics",
+  "description": "",
+  "source": "@site/docs/Reseach_Methodology/ethics.md",
+  "sourceDirName": "Reseach_Methodology",
+  "slug": "/Reseach_Methodology/ethics",
+  "permalink": "/BISIMEYER/docs/Reseach_Methodology/ethics",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/buw-bicycle-traffic/docs/Reseach_Methodology/ethics.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Research Methodology",
+    "permalink": "/BISIMEYER/docs/category/research-methodology"
+  },
+  "next": {
+    "title": "Measured Inputs",
+    "permalink": "/BISIMEYER/docs/Reseach_Methodology/measured_inputs"
+  }
+}

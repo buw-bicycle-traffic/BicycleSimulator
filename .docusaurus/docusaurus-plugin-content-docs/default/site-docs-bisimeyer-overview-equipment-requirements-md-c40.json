@@ -1,0 +1,27 @@
+{
+  "id": "BISIMEYER Overview/Equipment-requirements",
+  "title": "Equipment Requirements",
+  "description": "XXXXX",
+  "source": "@site/docs/BISIMEYER Overview/Equipment-requirements.md",
+  "sourceDirName": "BISIMEYER Overview",
+  "slug": "/BISIMEYER Overview/Equipment-requirements",
+  "permalink": "/BISIMEYER/docs/BISIMEYER Overview/Equipment-requirements",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/buw-bicycle-traffic/docs/BISIMEYER Overview/Equipment-requirements.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/BISIMEYER/docs/BISIMEYER Overview/introduction"
+  },
+  "next": {
+    "title": "Small Electronics",
+    "permalink": "/BISIMEYER/docs/BISIMEYER Overview/small_electronics"
+  }
+}

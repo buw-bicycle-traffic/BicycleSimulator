@@ -1,0 +1,27 @@
+{
+  "id": "Calabration_and_Validation/Computer_Setup",
+  "title": "Computer Setup",
+  "description": "Software is the backbone of the bicycle simulator. Of course, basic simulators may not have any display or just record basic outputs, but with today technology we can create virtual environments and create virtual scenarios. There are two primary pieces of software which are used in virtualization and the creation of the virtual environment and that are Unity and Unreal Engine. Both have been used in many simulation projects. In this case we recommend Unreal Engine, as there has been some more development from other research groups to develop packages which are useful in developing a simulator and managing things like traffic. There are many versions of Unreal Engine, but we recommend and support the use of a branch of Unreal Engine Called CARLA. This branch was developed for Autonomous vehicle simulation, but can be easily adjusted for non-AV vehicle use. Unreal Engine is the backbone of the simulation software, but with the provide maps, could limit your research and scenarios. To be able to create a new scenario, it is required to use RoadRunner, which is unfortunately a product of Mathworks, but is a great fully fleshed out software, with a lot of capabilities and functions for creating custom maps. Other similar software fall short of the feature sets that RoadRunner does provide, like Truevision.",
+  "source": "@site/docs/Calabration_and_Validation/Computer_Setup.md",
+  "sourceDirName": "Calabration_and_Validation",
+  "slug": "/Calabration_and_Validation/Computer_Setup",
+  "permalink": "/docs/Calabration_and_Validation/Computer_Setup",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Calabration_and_Validation/Computer_Setup.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Calabration and Validation",
+    "permalink": "/docs/category/calabration-and-validation"
+  },
+  "next": {
+    "title": "Simulator Setup",
+    "permalink": "/docs/Calabration_and_Validation/Simulator_Setup"
+  }
+}

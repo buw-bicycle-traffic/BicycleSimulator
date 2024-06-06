@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[619],{731:e=>{e.exports=JSON.parse('{"tags":[{"label":"greetings","permalink":"/BISIMEYER/blog/tags/greetings","count":1}]}')}}]);

@@ -1,0 +1,27 @@
+{
+  "id": "Reseach_Methodology/Calabration",
+  "title": "Calabration",
+  "description": "",
+  "source": "@site/docs/Reseach_Methodology/Calabration.md",
+  "sourceDirName": "Reseach_Methodology",
+  "slug": "/Reseach_Methodology/Calabration",
+  "permalink": "/docs/Reseach_Methodology/Calabration",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Reseach_Methodology/Calabration.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Research Methodology",
+    "permalink": "/docs/category/research-methodology"
+  },
+  "next": {
+    "title": "Validation of Bicycle Simulator",
+    "permalink": "/docs/Reseach_Methodology/Valadation"
+  }
+}

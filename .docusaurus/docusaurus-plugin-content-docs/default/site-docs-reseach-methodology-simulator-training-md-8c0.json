@@ -1,0 +1,27 @@
+{
+  "id": "Reseach_Methodology/Simulator Training",
+  "title": "Measured Inputs",
+  "description": "",
+  "source": "@site/docs/Reseach_Methodology/Simulator Training.md",
+  "sourceDirName": "Reseach_Methodology",
+  "slug": "/Reseach_Methodology/Simulator Training",
+  "permalink": "/docs/Reseach_Methodology/Simulator Training",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Reseach_Methodology/Simulator Training.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Ethics",
+    "permalink": "/docs/Reseach_Methodology/ethics"
+  },
+  "next": {
+    "title": "Measured Inputs",
+    "permalink": "/docs/Reseach_Methodology/measured_inputs"
+  }
+}

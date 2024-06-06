@@ -1,0 +1,27 @@
+{
+  "id": "Setup_and_Building_of_Simulator/Simulator_Setup",
+  "title": "Simulator Setup",
+  "description": "",
+  "source": "@site/docs/Setup_and_Building_of_Simulator/Simulator_Setup.md",
+  "sourceDirName": "Setup_and_Building_of_Simulator",
+  "slug": "/Setup_and_Building_of_Simulator/Simulator_Setup",
+  "permalink": "/BISIMEYER/docs/Setup_and_Building_of_Simulator/Simulator_Setup",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/buw-bicycle-traffic/docs/Setup_and_Building_of_Simulator/Simulator_Setup.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Computer Setup",
+    "permalink": "/BISIMEYER/docs/Setup_and_Building_of_Simulator/Computer_Setup"
+  },
+  "next": {
+    "title": "Setup of Scenarios",
+    "permalink": "/BISIMEYER/docs/Setup_and_Building_of_Simulator/Setup_of_Scenarios"
+  }
+}

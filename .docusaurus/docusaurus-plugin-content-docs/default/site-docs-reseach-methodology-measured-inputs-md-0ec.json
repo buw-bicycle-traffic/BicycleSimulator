@@ -1,0 +1,27 @@
+{
+  "id": "Reseach_Methodology/measured_inputs",
+  "title": "Measured Inputs",
+  "description": "",
+  "source": "@site/docs/Reseach_Methodology/measured_inputs.md",
+  "sourceDirName": "Reseach_Methodology",
+  "slug": "/Reseach_Methodology/measured_inputs",
+  "permalink": "/BISIMEYER/docs/Reseach_Methodology/measured_inputs",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/buw-bicycle-traffic/docs/Reseach_Methodology/measured_inputs.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Ethics",
+    "permalink": "/BISIMEYER/docs/Reseach_Methodology/ethics"
+  },
+  "next": {
+    "title": "Simulator Training",
+    "permalink": "/BISIMEYER/docs/Reseach_Methodology/Simulator_Training"
+  }
+}

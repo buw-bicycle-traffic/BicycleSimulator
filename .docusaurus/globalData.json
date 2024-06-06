@@ -1,0 +1,113 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/BISIMEYER/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/BISIMEYER/docs",
+          "mainDocId": "IntroductionBISIM",
+          "docs": [
+            {
+              "id": "BISIMEYER Overview/Equipment-requirements",
+              "path": "/BISIMEYER/docs/BISIMEYER Overview/Equipment-requirements",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "BISIMEYER Overview/introduction",
+              "path": "/BISIMEYER/docs/BISIMEYER Overview/introduction",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "BISIMEYER Overview/small_electronics",
+              "path": "/BISIMEYER/docs/BISIMEYER Overview/small_electronics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "BISIMEYER Overview/Software",
+              "path": "/BISIMEYER/docs/BISIMEYER Overview/Software",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Calabration_and_Validation/Calabration",
+              "path": "/BISIMEYER/docs/Calabration_and_Validation/Calabration",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Calabration_and_Validation/Valadation",
+              "path": "/BISIMEYER/docs/Calabration_and_Validation/Valadation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "IntroductionBISIM",
+              "path": "/BISIMEYER/docs/IntroductionBISIM",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Reseach_Methodology/ethics",
+              "path": "/BISIMEYER/docs/Reseach_Methodology/ethics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Reseach_Methodology/measured_inputs",
+              "path": "/BISIMEYER/docs/Reseach_Methodology/measured_inputs",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Reseach_Methodology/Simulator_Training",
+              "path": "/BISIMEYER/docs/Reseach_Methodology/Simulator_Training",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Setup_and_Building_of_Simulator/Computer_Setup",
+              "path": "/BISIMEYER/docs/Setup_and_Building_of_Simulator/Computer_Setup",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Setup_and_Building_of_Simulator/Setup_of_Scenarios",
+              "path": "/BISIMEYER/docs/Setup_and_Building_of_Simulator/Setup_of_Scenarios",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Setup_and_Building_of_Simulator/Simulator_Setup",
+              "path": "/BISIMEYER/docs/Setup_and_Building_of_Simulator/Simulator_Setup",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/bismeyer-overview",
+              "path": "/BISIMEYER/docs/category/bismeyer-overview",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/setup-and-building-of-simulator",
+              "path": "/BISIMEYER/docs/category/setup-and-building-of-simulator",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/calabration-and-validation",
+              "path": "/BISIMEYER/docs/category/calabration-and-validation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/research-methodology",
+              "path": "/BISIMEYER/docs/category/research-methodology",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/BISIMEYER/docs/IntroductionBISIM",
+                "label": "IntroductionBISIM"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "BISIMEYER Overview/small_electronics",
+  "title": "Small Electronics",
+  "description": "To help record actions from subjects, modification and small electronics need to be added to the simulator. As stated before these include braking, shifting, steering, but also include heart rate, and power output. Other features which increase realism is the addition of Wind using fans to simulate wind while riding.",
+  "source": "@site/docs/BISIMEYER Overview/small_electronics.md",
+  "sourceDirName": "BISIMEYER Overview",
+  "slug": "/BISIMEYER Overview/small_electronics",
+  "permalink": "/BISIMEYER/docs/BISIMEYER Overview/small_electronics",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/buw-bicycle-traffic/docs/BISIMEYER Overview/small_electronics.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Equipment Requirements",
+    "permalink": "/BISIMEYER/docs/BISIMEYER Overview/Equipment-requirements"
+  },
+  "next": {
+    "title": "Software",
+    "permalink": "/BISIMEYER/docs/BISIMEYER Overview/Software"
+  }
+}

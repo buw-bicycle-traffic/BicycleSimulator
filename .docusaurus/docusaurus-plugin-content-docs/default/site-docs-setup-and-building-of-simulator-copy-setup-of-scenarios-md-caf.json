@@ -1,0 +1,27 @@
+{
+  "id": "Setup and Building of Simulator - Copy/Setup_of_Scenarios",
+  "title": "Setup of Scenarios",
+  "description": "In this chapter, we will talk about how to set up your own custom scenario of a real world location.",
+  "source": "@site/docs/Setup and Building of Simulator - Copy/Setup_of_Scenarios.md",
+  "sourceDirName": "Setup and Building of Simulator - Copy",
+  "slug": "/Setup and Building of Simulator - Copy/Setup_of_Scenarios",
+  "permalink": "/docs/Setup and Building of Simulator - Copy/Setup_of_Scenarios",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Setup and Building of Simulator - Copy/Setup_of_Scenarios.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Simulator Setup",
+    "permalink": "/docs/Setup and Building of Simulator - Copy/Simulator_Setup"
+  },
+  "next": {
+    "title": "Tutorial - Basics",
+    "permalink": "/docs/category/tutorial---basics"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "Calabration_and_Validation/Valadation",
+  "title": "Validation of Bicycle Simulator",
+  "description": "",
+  "source": "@site/docs/Calabration_and_Validation/Valadation.md",
+  "sourceDirName": "Calabration_and_Validation",
+  "slug": "/Calabration_and_Validation/Valadation",
+  "permalink": "/BISIMEYER/docs/Calabration_and_Validation/Valadation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/buw-bicycle-traffic/docs/Calabration_and_Validation/Valadation.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Calabration",
+    "permalink": "/BISIMEYER/docs/Calabration_and_Validation/Calabration"
+  },
+  "next": {
+    "title": "Research Methodology",
+    "permalink": "/BISIMEYER/docs/category/research-methodology"
+  }
+}

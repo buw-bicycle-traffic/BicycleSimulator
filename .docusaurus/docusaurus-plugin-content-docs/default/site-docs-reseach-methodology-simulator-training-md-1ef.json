@@ -1,0 +1,23 @@
+{
+  "id": "Reseach_Methodology/Simulator_Training",
+  "title": "Simulator Training",
+  "description": "",
+  "source": "@site/docs/Reseach_Methodology/Simulator_Training.md",
+  "sourceDirName": "Reseach_Methodology",
+  "slug": "/Reseach_Methodology/Simulator_Training",
+  "permalink": "/BISIMEYER/docs/Reseach_Methodology/Simulator_Training",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/buw-bicycle-traffic/docs/Reseach_Methodology/Simulator_Training.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Measured Inputs",
+    "permalink": "/BISIMEYER/docs/Reseach_Methodology/measured_inputs"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "Setup and Building of Simulator/small_electronics",
+  "title": "Small Electronics",
+  "description": "To help record actions from subjects, modification and small electronics need to be added to the simulator. As stated before these include braking, shifting, steering, but also include heart rate, and power output. Other features which increase realism is the addition of Wind using fans to simulate wind while riding.",
+  "source": "@site/docs/Setup and Building of Simulator/small_electronics.md",
+  "sourceDirName": "Setup and Building of Simulator",
+  "slug": "/Setup and Building of Simulator/small_electronics",
+  "permalink": "/docs/Setup and Building of Simulator/small_electronics",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Setup and Building of Simulator/small_electronics.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Equipment Requirements",
+    "permalink": "/docs/Setup and Building of Simulator/Equipment-requirements"
+  },
+  "next": {
+    "title": "Software",
+    "permalink": "/docs/Setup and Building of Simulator/Software"
+  }
+}
