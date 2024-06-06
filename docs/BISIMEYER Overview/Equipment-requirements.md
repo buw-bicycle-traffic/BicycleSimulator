@@ -16,7 +16,7 @@ Although this bike provides many useful features, it is lacking some features th
 
 A display is important when it comes to anything visual and when trying to simulate the world visuals are important. There are many ways to create visuals for simulations. One could use monitors, projectors, VR glasses, AR glasses, or a CAVE system. All these systems have advantages and drawbacks. A quick overview of Advantages and drawbacks can be seen below in Table 2.1. The recommended setup is using monitors for the display of the simulator as the ability to easily change the displays, the affordability, and the advantages of improved realism from other display methods are rather small in comparison to the drawbacks. It is recommended that these displays are on movable stands, so that the visual field can be adjusted for needs and requirements of the research.
 
-![Equipment-Table](./Equipment_table.png)
+![Equipment-Table](./Equipment_table.PNG)
 
 ## Computer
 
