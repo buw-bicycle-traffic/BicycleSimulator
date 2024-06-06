@@ -8,8 +8,8 @@ const FeatureList = [
     Svg: require('@site/static/img/easy.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        BISIMEYER is a easy to source open source bicycle simulator. All the parts
+      are easy to access and publicly avaliable to everyone.
       </>
     ),
   },
@@ -18,8 +18,7 @@ const FeatureList = [
     Svg: require('@site/static/img/guide.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        BISIMEYER has a step-by-step guide of how to build and setup a bicycle simulator.
       </>
     ),
   },
@@ -28,8 +27,7 @@ const FeatureList = [
     Svg: require('@site/static/img/openbook.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        BISIMEYER is open source project and is open to changes and optimization.
       </>
     ),
   },
