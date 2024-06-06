@@ -65,12 +65,12 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/BISIMEYER.png',
       navbar: {
         title: 'BISIMEYER Standard',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/BISIMEYER.PNG',
+          src: 'img/BISIMEYER.png',
         },
         items: [
           {
