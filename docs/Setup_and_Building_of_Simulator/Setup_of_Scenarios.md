@@ -278,6 +278,7 @@ generate_traffic.py
 15. Open your new folder and then click on add/import and then Import Asset and navigate to your exports of the buildings
 
 ![RRexport04](./RREX04.jpg)
+
 ![RRexport05](./RREX05.jpg)
 
 16. Depending on how you exported your building, you may have to change the import scale
