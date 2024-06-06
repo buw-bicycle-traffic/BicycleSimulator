@@ -13,14 +13,14 @@ const config = {
   favicon: 'img/BISMEYER',
 
   // Set the production url of your site here
-  url: 'https://jackmad101.github.io',
+  url: 'https://bisimeyerweb.onrender.com/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/BISIMEYER',
+  baseUrl: 'https://bisimeyerweb.onrender.com/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'jackmad101', // Usually your GitHub org/user name.
+  organizationName: 'BUW BT', // Usually your GitHub org/user name.
   projectName: 'BISIMEYER', // Usually your repo name.
   
   onBrokenLinks: 'warn',
