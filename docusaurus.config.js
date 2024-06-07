@@ -13,14 +13,14 @@ const config = {
   favicon: 'img/BISMEYER',
 
   // Set the production url of your site here
-  url: 'https://jackmad101.github.io',
+  url: 'https://bisimeyerweb.onrender.com/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/BISIMEYER',
+  baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'jackmad101', // Usually your GitHub org/user name.
+  organizationName: 'BUW BT', // Usually your GitHub org/user name.
   projectName: 'BISIMEYER', // Usually your repo name.
   
   onBrokenLinks: 'warn',
@@ -45,14 +45,14 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/buw-bicycle-traffic',
+            'https://github.com/jackmad101/bisimeyerweb/tree/deployment',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/buw-bicycle-traffic',
+            'https://github.com/jackmad101/bisimeyerweb/tree/deployment',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -65,12 +65,12 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/BISIMEYER.png',
       navbar: {
         title: 'BISIMEYER Standard',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/BISIMEYER.PNG',
+          src: 'img/BISIMEYER.png',
         },
         items: [
           {

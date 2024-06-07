@@ -8,7 +8,7 @@ Software is the backbone of the bicycle simulator. Of course, basic simulators m
 
 ## Simulation Software Installation
 
-Below is a step-by-step guide of how to build CARLA on the computer for the bicycle simulator, as the official guide can be sometimes vague on how to build the software. If our guide is unclear, you can find the official build guide here: 
+Below is a step-by-step guide of how to build CARLA on the computer for the bicycle simulator, as the official guide can be sometimes vague on how to build the software. If our guide is unclear, you can find the official build guide here. Before you get started make sure to create a github account and get access to the Unreal Engine Source code by following this guide [Unreal Engine Source Code](https://www.unrealengine.com/en-US/ue-on-github): 
 
 1. First, we need to install some applications to be able to build CARLA, the first of which to install is CMAKE x64 
 
@@ -68,6 +68,8 @@ py -m pip install -r C:/User/example/downloads/pipreq.txt
 ```
 
 [Pip Requirement Text](./pipreq.txt)
+
+Note: This link may not download the text file and you may need to copy the text from the new tab and save it in a notepad document. Then save this txt file as pipreq.txt, where you can access the file with python. 
 
 12. Once these packages are installed, you can validate their installation by typing in the following code
 

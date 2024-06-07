@@ -18,7 +18,7 @@ To start out creating our custom map, we will start by using blender to create t
 
 ![Blender2](./Blender2.png)
 
-3. Now we will select our area of interest using the select button on Blosm, which will open a tab to a map, where you can select an area you want to create a scenario for. It is recommended that the area be a bit bigger as your interested area, to add more realism and space to your custom map
+3. Now we will select our area of interest using the select button on Blosm, which will open a tab to a map. Here you can select an area you want to create a scenario for. It is recommended that the area be a bit bigger than your interested area, to add more realism and space to your custom map
 
 ![Blender3](./Blender3.jpg)
 
@@ -26,7 +26,7 @@ To start out creating our custom map, we will start by using blender to create t
 
 ![Blender4](./Blender4.jpg)
 
-5. Once pasted, you can now add elevation data to your blender file by using the terrain import function. In the section below the coordinate, you can select terrain and then click on the import button
+5. Once pasted, you can now add elevation data to your blender file by using the terrain import function. In the section below the coordinates, you can select terrain and then click on the import button
 
 ![Blender5](./Blender5.jpg)
 
@@ -34,19 +34,19 @@ To start out creating our custom map, we will start by using blender to create t
 
 7. This can be done by going back to the OpenStreetMap Tab on Blosm
 
-8. Before you select import make sure to select Import for Export, Import Buildings, and Relative to Initial Import and then deselect Import as a Single Object and Import Forest
+8. Before you select import, make sure to select Import for Export, Import Buildings, and Relative to Initial Import and then deselect Import as a Single Object and Import Forest
 
 ![Blender6](./Blender6.jpg)
 
 9. Now import the buildings by clicking import
 
-10. This should have imported your buildings on to the terrain surface, and now you have the buildings for your custom map
+10. This should have imported your buildings on to the terrain surface
 
-11. Now you can export these Buildings first selecting all the buildings under the Map_XX.osm_buildings
+11. Now that you have the buildings for your custom map, you can export these buildings by firstly selecting all the buildings under the Map_XX.osm_buildings
 
 ![Blender7](./Blender7.png)
 
-12. Then under file, click Export and use FBX to export your file. 
+12. Then under file, click Export and use FBX to export your file 
 
 13. When exporting, Please select the Limit to Selected Objects so that only the buildings are exported
 
@@ -56,12 +56,12 @@ To start out creating our custom map, we will start by using blender to create t
 
 ## RoadRunner
 
-Now with the buildings done, we can move to the roads for the custom maps. This section will cover how to start using RoadRunner and what data will be needed. As stated many times before, RoadRunner is a software which can be used to develop a road for your custom map. The software is quite robust and can be easily used to create a very accurate representation of your area's street design, although this does take some time to implement accurately. RoadRunner has some functions where it can take map data and transform it into streets, but the results can vary quite greatly and is not recommended, if streets have complicated street design and or street layout, as the import, will make quite a mess with these special situations. 
+Now with the buildings done, we can move to the roads for the custom maps. This section will cover how to start using RoadRunner and what data will be needed. As stated many times before, RoadRunner is a software which can be used to develop a road for your custom map. The software is quite robust and can be easily used to create a very accurate representation of your area's street design, although this does take some time to implement accurately. RoadRunner has some functions where it can take map data and transform it into streets, but the results can vary quite greatly, and it is not recommended if streets have complicated street design and or street layouts, as the import will make quite a mess with these special situations.  
 
 
 ## OSM Data
 
-The first piece of data that is necessary and helpful for creating a custom roadway will be OpenStreetMap (OSM) Data. This will be our baseline data, which we will build off. This data can be downloaded from OSM very easily. You can use the coordinates from Blender to select the area you want to download, so that it matches exactly. You may run into issues with exporting your area in that your areas contains too many objects in your selected area. One way to solve that would to be to download OSM data throught Geofabrik and select your area you have interest in recreating.
+The first piece of data that is necessary and helpful for creating a custom roadway will be OpenStreetMap (OSM) Data. This will be our baseline data, which we will build off of. This data can be downloaded from OSM very easily. You can use the coordinates from Blender to select the area you want to download so that it matches exactly. You may run into issues with exporting your area in that your areas contains too many objects in your selected area. One way to solve that would be to download OSM data through Geofabrik and select the area you have interest in recreating.
 
 [OpenStreetMaps](https://www.openstreetmap.org/)
 
@@ -69,7 +69,7 @@ The first piece of data that is necessary and helpful for creating a custom road
 
 ## Elevation Data 
 
-To best represent your area of interest, it will be important to have elevation data for your specific area. This data can typically be found online through your regional GIS governing body, but may depend on if that data is openly provided or not. Some areas, do not have this data available, so you will be left with open source data, which is typically less accurate data and of low resolution, which may affect the accuracy of your digital copy of your test area. The data to be used in building your road network will need to be in a DEM, IMG, or TIFF file, which may mean that you will have to convert your data so that RoadRunner can actually use the elevation data. If for example your data is in a vector shape file with contour lines, you will have to transform your vector data into a TIN Raster, which can be done using QGIS and the TIN interpolation processing tool. Below is the documentation from QGIS of how to use this function, as well a YouTube video of how to interpolate the data.  One thing to note is that it is important to have your coordinate system in the same format, as OSM data, which is WGS 84. QGIS can transform vector data quite easily to the desired coordinate system. The final result should look like the example below. Once you have the elevation data in a format which can be used by RoadRunner, we will move on to creating a RoadRunner map.
+To best represent your area of interest, it will be important to have elevation data for your specific area. This data can typically be found online through your regional GIS governing body, but availability may depend on whether that data is openly provided or not. Some areas, do not have this data available, so you will be left with open source data, which is typically less accurate and low-resolution data, which may affect the accuracy of the digital copy of your test area. The data to be used in building your road network will need to be in a DEM, IMG, or TIFF file, which may mean that you will have to convert your data so that RoadRunner can actually use the elevation data. If, for example, your data is in a vector shape file with contour lines, you will have to transform your vector data into a TIN Raster, which can be done using QGIS and the TIN interpolation processing tool. Below is the documentation from QGIS on how to use this function, as well as a YouTube video of how to interpolate the data.  One thing to note is that it is important to have your coordinate system in the same format as the OSM data, which is WGS 84. QGIS can transform vector data quite easily to the desired coordinate system. The final result should look like the example below. Once you have the elevation data in a format which can be used by RoadRunner, we will move on to creating a RoadRunner map.
 
 [QGIS Interpolation](https://docs.qgis.org/3.28/en/docs/user_manual/processing_algs/qgis/interpolation.html#tin-interpolation)
 
@@ -77,7 +77,7 @@ To best represent your area of interest, it will be important to have elevation 
 
 ![QGIS Photo](./QGIS.png)
 
-This may not apply to everyone, especially as the type of elevation data varies depending on the data openly available, but we received a contour vector data set from the state of North Rhein-Westphalia, which conducted a Lidar scan of the area and which is the basis of this vector data. The data is in a contour vector, with each line signifying an elevation. To make this data into a useable form, we imported into a QGIS file, making sure to import it into a project in the correct WGS 84. Once inserted into our QGIS file, we then added a few attributes of Elevation to the data set. This can be done by using the calculator function in QGIS, which can add data to your data. Once that was done, we used TIN interpolation tool, which takes a vector data set and vector attribute and translates that into a raster surface. Make sure that the raster size is appropriate to the size and resolution of the data. This may take some time. Once that is done, we used a raster resample interpolation tool, which interpolates the data between points to create a smoothed raster surface. This tool is part of the GRASS tools, which is a plugin for QGIS. Then we saved the new raster surface and exported it in the proper coordinate system. (Some issues may occur with the exporting in the proper coordinate systems, which may require you to use the Assign projection tool)
+This may not apply to everyone, especially as the type of elevation data varies depending on the data openly available, but we received a contour vector data set from the state of North Rhein-Westphalia, which conducted a Lidar scan of the area and which is the basis of this vector data. The data is in a contour vector, with each line signifying an elevation. To make this data useable, we imported it into a QGIS file, making sure to import it into a project in the correct WGS 84. Once inserted into our QGIS file, we then added a few attributes of Elevation to the data set. This can be done by using the calculator function in QGIS, which can add data to your data. Once that was done, we used the TIN interpolation tool, which takes a vector data set and vector attribute and translates that into a raster surface. Make sure that the raster size is appropriate to the size and resolution of the data. This may take some time. Once that is done, we used a raster resample interpolation tool, which interpolates the data between points to create a smoothed raster surface. This tool is part of the GRASS tools, which is a plugin for QGIS. Then we saved the new raster surface and exported it in the proper coordinate system. (Some issues may occur with exporting in the proper coordinate systems, which may require you to use the Assign projection tool)
 
 ## Road Building
 
@@ -103,54 +103,54 @@ Now with all the important pieces of data for RoadRunner, which includes the OSM
 
 ![Roadrunner4](./RR4.jpg)
 
-7. Now with the data prepared for Roadrunner, we can add this to the scene. Just simply drag the OSM data and topography data into the scene
-
+7. Now with the data prepared for Roadrunner, we can add it to the scene. Simply drag the OSM data and topography data into the scene
+   
 8. Once they are dragged into the scene, you should see a topography map and OSM map. If not, you can press F5 and F7, which should bring up the data. It should look something like below
 
 ![Roadrunner5](./RR5.png)
 
-9. If you find the OSM map too cluttered and hard to understand, because of the building information and land information, you can remove the OSM data from your scene and add only the OSM data for roads by adding the OSM data by using SD Map Viewer Tool. This will only add the road network of the OSM data
+9. If you find the OSM map too cluttered and hard to understand, because of both the building information and land information being shown, you can remove the OSM data from your scene and add only the OSM data for roads. This can be done by adding the OSM data through SD Map Viewer Tool. This will only add the road network of the OSM data
 
-10. Now, with all the necessary data to create your scenario in your scene, we can start creating the road network. This can easily be done with using the road plan tool found in the up left side of the program
+10. Now, with all the necessary data to create your scenario in your scene, we can start creating the road network. This can easily be done by using the road plan tool found in the upper left side of the program
 
-11. Clicking on this should bring you into the tool, and you can start adding roads to your scene. Simply right-click on your desired location you would like to add a street and then once again to complete the segment
+11. Clicking on this should bring you into the tool, and you can start adding roads to your scene. Simply right-click on the location you would like to start a  street and then once again to end the segment
 
-12. Now with your first street in your desired location, we can now add some detail to that street, first we can add topography data by telling Roadrunner to add the topography data to the streets by clicking on project roads on the left side of the program
+12. Now with your first street in your desired location, we can add some detail to that street. First, we can add topography data by telling Roadrunner to add the topography data to the streets by clicking on project roads on the left side of the program
 
 ![Roadrunner6](./RR6.jpg)
 
-13. We have now added topography to our roads, but you may have noticed there are some issues with sharp corners on the street, which is probably due to issues in the elevation data and or with intersections. This can be solved by looking at the profile of the roads in the bottom left
+13. We have now added topography to our roads. If there are issues with some sharp corners on the street, this is probably due to issues in the elevation data and or with intersections. This can be solved by looking at the profile of the roads in the bottom left
 
 ![Roadrunner7](./RR7.png)
 
 14. The blue line indicates the elevation of the topography data (the resolution of the topography map on this was poor, which caused the stair stepping effect), the purple line is the selected road, and the green line is the elevation of the intersecting road. You can adjust the profile of the road by moving the purple dots to better fit the topography and intersections
 
-15. You can also add more elevation point on the road segment by right-clicking on the purple profile line and move them accordingly
+15. You can also add more elevation points on the road segment by right-clicking on the purple profile line and moving them accordingly
 
-16. You may have also noticed the road you have placed is incorrect or not matching what actually is there. RoadRunner provides a few different types of roads, but is not limited to just these road types, and be adjusted to your needs. To change the road, you can navigate to the RoadStyles folder in the library browser
+16. You may have also noticed the road you have placed is incorrect or not matching the road you are trying to replicate. RoadRunner provides a few different types of roads, but is not limited to just these road types, as roads can be adjusted to your needs. To change the road, you can navigate to the RoadStyles folder in the library browser
 
-17. In the RoadStyles folder, you will find a few different road types. You can take one of these road types and apply it to your road. Simply drag the road type to the road segment, and it will change the road segment
+17. In the RoadStyles folder, you will find a few different road types. You can grab one of these road types and apply it to your road. Simply drag the road type to the road segment, and it will change the road segment
 
 ![Roadrunner8](./RR8.png)
 
-18. This is a great way to change the road segment to fit your needs, but you may notice it is quite limited on what road types provide and that your road segment is a one-off case and does not fit one of these road styles. To fix this or change the road segment, we can add lanes, adjust lane width, sidewalk width, and adjust direction of lanes
+18. This is a great way to change the road segment to fit your needs, but you may notice it is quite limited on what road types provide and that your road segment is a one-off case and does not fit one of these road styles. To fix this or change the road segment, we can add lanes, adjust lane width, sidewalk width, and adjust the direction of lanes
 
 19. Adding lanes is quite easy, you just need to click on the lane add tool in the middle of the toolbar on the top and once active you can now add lanes to your road segment
 
 ![Roadrunner9](./RR9.jpg)
 
 20. With the lane add tool active, you can add lanes to your road segment by right-clicking on the road segment red lines, which indicate the lanes on the road segment
-
+    
 21. You can specify which type of lane type is added, the list of lane types can be found on the right side of the program. The default option for lane type is automatic, which will add lanes in comparison to the other lanes around it
 
 ![Roadrunner10](./RR10.png)
 
-22. Now, with the additional lanes added, you may want to adjust the width of those lanes to fit and better represent the area you are trying to recreate. To do this, you can adjust the lane width with the lane width tool, which can be found in the middle of the toolbar 
+22. Now, with the additional lanes added, you may want to adjust the width of those lanes to fit and better represent the area you are trying to recreate. To do this, you can adjust the lane width with the lane width tool, which can be found in the middle of the toolbar. To remove lanes, select them (best done in the lane tool) and hit delete 
 
 ![Roadrunner11](./RR11.jpg)
 
-23. You can click on a lane and once you have clicked on a lane on the right side of the program you will find the current width, which then can be adjusted by adjusting the width number
-
+23. Clicking on a lane brings up a window on the right side of the program where you will find  and adjust the current width
+    
 ![Roadrunner12](./RR12.png)
 
 24. Now that you have adjusted the lane width maybe, you want to change the direction of the traffic on the road and want to make it a one way roadway or remove access to a road segment. You can do that by selecting the lane tool. The lane tool give you the ability to adjust the direction, restrict access to the lane (Note: undirect restricts all access to the lane), change the material type, set a speed limit on the road, and change the lane type of the road
@@ -159,15 +159,15 @@ Now with all the important pieces of data for RoadRunner, which includes the OSM
 
 ![Roadrunner13](./RR13.png)
 
-26. As state before, you may also change the lane type in the attributes. You must be careful when doing this to apply the correct travel direction, when changing lane type, as this does not change automatically when changes are done to the lane type. As an example, if you change a driving lane to a bicycle lane, RoadRunner will still give access to cars, even though this access should be restricted
+26. As stated before, you may also change the lane type in the attributes. You must be careful when doing this to apply the correct travel direction, when changing lane type, as this does not change automatically when changes are done to the lane type. As an example, if you change a driving lane to a bicycle lane, RoadRunner will still give access to cars, even though this access should be restricted
 
-27. Now you know how to really customize your streets, but some road intersections are quite special as it is three different types of roads coming together. To address these special cases there is the custom junction tool which can be found in the top left on the toolbar
+27. Now you know how to really customize your streets, but some road intersections are quite special for example if three different types of roads are coming together. To address these special cases there is the custom junction tool which can be found in the top left on the toolbar
 
 ![Roadrunner14](./RR14.jpg)
 
-28. This tool will create custom intersections to help create a nicer intersection, compared to other intersection method of having the road segments cross each other, although the standard intersection method should be used, and only when needed to use the custom intersection method
+28. This tool will create custom intersections to help create a nicer intersection, compared to the other intersection method of having the road segments cross each other. The standard intersection method should be the go-to, and only when needed the custom intersection method  should be used
 
-29. You have no started created your road network and are getting close to getting done, now it is important to check if all the intersections make sense and that vehicles will go preform the correct maneuver. One way to check this is by using the maneuver tool, found on the left side of the toolbar
+29. As you have now started creating your road network and are getting close to getting done, it is important to check if all the intersections make sense and that vehicles will preform the correct maneuver. One way to check this is by using the maneuver tool, found on the left side of the toolbar
 
 ![Roadrunner15](./RR15.jpg)
 
@@ -177,7 +177,7 @@ Now with all the important pieces of data for RoadRunner, which includes the OSM
 
 ![Roadrunner16](./RR16.png)
 
-32. The next feature which you may have come across, when creating your scene, is the ability of creating terrain surfaces between road segments. These surfaces will appear, when road segments make a closed loop, or can be created manually by using the surface tool, found on the right side of the toolbar
+32. The next feature that you may have come across when creating your scene is the ability of creating terrain surfaces between road segments. These surfaces will appear  when road segments make a closed loop, or can be created manually by using the surface tool, found on the right side of the toolbar
 
 ![Roadrunner17](./RR17.jpg)
 
@@ -191,7 +191,7 @@ Now with all the important pieces of data for RoadRunner, which includes the OSM
 
 ![Roadrunner19](./RR19.jpg)
 
-36. Lane marking tools can be changed by navigating to the markings' folder in the library browser. When you click on road markings on a road segment you will see on the right side of the program the attributes from the lane marking. You can change the lane striping by either dragging the marking style from the library browser to the road segment or by dragging it to the marking style in the attributes
+36. Lane marking tools can be changed by navigating to the markings' folder in the library browser. When you click on road markings on a road segment you will see the lane marking attributes on the right.  You can change the lane striping by either dragging the marking style from the library browser to the road segment or by dragging it to the marking style in the attributes
 
 37. Other features of RoadRunner you can learn from RoadRunner documentation page
 
@@ -278,6 +278,7 @@ generate_traffic.py
 15. Open your new folder and then click on add/import and then Import Asset and navigate to your exports of the buildings
 
 ![RRexport04](./RREX04.jpg)
+
 ![RRexport05](./RREX05.jpg)
 
 16. Depending on how you exported your building, you may have to change the import scale
