@@ -130,7 +130,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} BISIMEYER Project of Chair of Bicycle Traffic at the University of Wuppertal, Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} BISIMEYER Project of the Chair of Bicycle Traffic at the University of Wuppertal, Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,
