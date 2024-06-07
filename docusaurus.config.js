@@ -95,7 +95,7 @@ const config = {
             items: [
               {
                 label: 'Guide',
-                to: '/docs/IntroducctionBISIM',
+                to: '/docs/IntroductionBISIM',
               },
             ],
           },
