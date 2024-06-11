@@ -67,7 +67,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/OPENBISIM.png',
       navbar: {
-        title: 'bicyclesimulator Standard',
+        title: 'Open Bicycle Simulator Standard',
         logo: {
           alt: 'My Site Logo',
           src: 'img/OPENBISIM.png',
@@ -130,7 +130,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} BISIMEYER Project of the Chair of Bicycle Traffic at the University of Wuppertal, Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Open Bicycle Simulator Standard Project of the Chair of Bicycle Traffic at the University of Wuppertal, Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,
