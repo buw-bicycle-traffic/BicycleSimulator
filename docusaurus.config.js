@@ -108,7 +108,7 @@ const config = {
               },
               {
                 label: 'Linkedin',
-                href: 'https://de.linkedin.com/school/buw/',
+                href: 'https://www.linkedin.com/company/buw-chair-of-bicycle-traffic/',
               },
               {
                 label: 'Instagram',
