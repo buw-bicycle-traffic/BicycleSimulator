@@ -1,8 +1,8 @@
 {
-  "label": "BISMEYER Overview",
+  "label": "Open Bicycle Simulator Overview",
   "position": 1,
   "link": {
     "type": "generated-index",
-    "description": "Genearl Overview of BISIMEYER Standard."
+    "description": "Genearl Overview of Open Bicycle Simulator Standard."
   }
 }
