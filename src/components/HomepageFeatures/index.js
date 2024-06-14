@@ -8,7 +8,7 @@ const FeatureList = [
     Svg: require('@site/static/img/easy.svg').default,
     description: (
       <>
-        BISIMEYER is a easy to source open source bicycle simulator. All the parts
+        Open BISIM is a easy to source open source bicycle simulator. All the parts
       are easy to access and publicly avaliable to everyone.
       </>
     ),
@@ -18,7 +18,7 @@ const FeatureList = [
     Svg: require('@site/static/img/guide.svg').default,
     description: (
       <>
-        BISIMEYER has a step-by-step guide of how to build and setup a bicycle simulator.
+        Open BISIM has a step-by-step guide of how to build and setup a bicycle simulator.
       </>
     ),
   },
@@ -27,7 +27,7 @@ const FeatureList = [
     Svg: require('@site/static/img/openbook.svg').default,
     description: (
       <>
-        BISIMEYER is open source project and is open to changes and optimization.
+        Open BISIM is open source project and is open to changes and optimization.
       </>
     ),
   },

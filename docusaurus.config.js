@@ -8,12 +8,12 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'BISIMEYER Standard',
+  title: 'Open Bicycle Simulator Standard',
   tagline: 'Bicycle Simulator Standard',
-  favicon: 'img/BISMEYER',
+  favicon: 'img/OPENBISIM',
 
   // Set the production url of your site here
-  url: 'https://bisimeyerweb.onrender.com/',
+  url: 'https://bicyclesimulator.onrender.com/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -21,7 +21,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'BUW BT', // Usually your GitHub org/user name.
-  projectName: 'BISIMEYER', // Usually your repo name.
+  projectName: 'Open Bicycle Simulator Standard', // Usually your repo name.
   
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
@@ -45,14 +45,14 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/jackmad101/bisimeyerweb/tree/deployment',
+            'https://github.com/jackmad101/bicyclesimulator/tree/deployment',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/jackmad101/bisimeyerweb/tree/deployment',
+            'https://github.com/jackmad101/bicyclesimulator/tree/deployment',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -65,19 +65,19 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/BISIMEYER.png',
+      image: 'img/OPENBISIM.png',
       navbar: {
-        title: 'BISIMEYER Standard',
+        title: 'Open Bicycle Simulator Standard',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/BISIMEYER.png',
+          src: 'img/OPENBISIM.png',
         },
         items: [
           {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Guide',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
@@ -94,8 +94,8 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Guide',
+                to: '/docs/IntroductionBISIM',
               },
             ],
           },
@@ -108,7 +108,7 @@ const config = {
               },
               {
                 label: 'Linkedin',
-                href: 'https://de.linkedin.com/school/buw/',
+                href: 'https://www.linkedin.com/company/buw-chair-of-bicycle-traffic/',
               },
               {
                 label: 'Instagram',
@@ -130,7 +130,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} BISIMEYER Project of Chair of Bicycle Traffic at the University of Wuppertal, Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Open Bicycle Simulator Standard Project of the Chair of Bicycle Traffic at the University of Wuppertal, Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,

@@ -14,7 +14,7 @@ What is a bicycle simulator? A bicycle simulator is a tool to replicate bicyclin
 
 # Objectives of Standard
 
-As stated before, a part of this standard is to set standards for bicycle simulators. Setting these standards can come with great benefits, which have been lacking in bicycle simulators thus far. These benefits are repeatability, reliability, validity, and improved accuracy. With standards set, research that is conducted on bicycle simulators can be transferred to other research groups and the research done can be continued or validated by another group. Of course the benefit of having some baseline from a standard, improvement and changes can be explored.
+As stated before, a part of this standard is to set standards for bicycle simulators. Setting these standards can come with great benefits, which have been lacking in bicycle simulators thus far. These benefits are repeatability, reliability, validity, and improved accuracy. With standards set, research that is conducted on bicycle simulators can be transferred to other research groups and the research done can be continued or validated by another group. Of course with the benefit of having some baseline from a standard, improvement and changes can be explored.
 
 # Basic Requirements to Get Started
 

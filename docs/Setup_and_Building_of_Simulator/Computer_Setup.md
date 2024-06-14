@@ -200,7 +200,7 @@ cd C:\carla
 make PythonAPI
 ```
 
-37. This should take some time to compile and build CARLA, but once complete, check the code to see if that it reports a success and that if there is no error code report. Also check that a dist file was also made under \carla\PythonAPI\carla. If an error code is present, rerun the command from step 35.
+37. This should take some time to compile and build CARLA, but once complete, check the code to see if that it reports a success and that if there is no error code report. Also check that a dist folder was also made under \carla\PythonAPI\carla. If an error code is present, rerun the command from step 35.
 
 38. If errors continue to persist, then you will need to start over from step 1 and check if you have installed all the required software correctly and given them full admin access. You may want to check if all Python add-ons are up-to-date as well. To update all packages, you can type this command in the PowerShell.
 

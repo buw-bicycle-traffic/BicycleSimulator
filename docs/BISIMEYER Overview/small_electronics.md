@@ -10,6 +10,9 @@ To help record actions from subjects, modification and small electronics need to
 
 To record data and produce input data for the simulation, small electronic measurement devices needs to be used. To record these, Arduino’s have been used, which can take the small inputs from these electronics and output them to the computer. These Arduino will be responsible for taking the input of the braking and steering functions of the simulator.
 
+## ANT+ 
+ANT+ usb is an important piece to communicate with the Wahoo Trainer. This USB will be able to read what information the trainer is producing but as well send information to the trainer as well. It is important to buy a high quality one, so that you have a stable and reliable connection with the trainer through this device.  
+
 ## Brakes
 
 XXXXX
