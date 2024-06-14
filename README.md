@@ -1,5 +1,9 @@
 # Website
 
+Welcome to the Open Bicycle Simulator website generator. This repository contains all the website pages and information. You can find more of how docusaurus work on the website below. To make changes to the website use the deployment branch of the repository. The Main branch is for backups of the website. Once you commit changes to the deployment branch you will need to build the website again on render or whatever web service you are using. If you have any questions please get in touch with Jack.
+
+Current Website: [https://bicyclesimulator.onrender.com/](https://bicyclesimulator.onrender.com/)
+
 This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
 
 ### Installation
