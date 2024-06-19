@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Equipment Requirements
 
-XXXXX
+This is a an overview of the required equipment for the open bicycle simulator standard. This gives a short introduction to each item which is important and essential to the open bicycle simulator. 
 
 ## Bicycle Trainer
 
