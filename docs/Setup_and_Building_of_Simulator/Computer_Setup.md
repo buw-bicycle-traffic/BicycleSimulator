@@ -106,7 +106,7 @@ cd ..
 until you are at the highest folder of the drive, then type in the following command
 
 ``` 
-git clone –depth 1 -b carla https://github.com/CarlaUnreal/UnrealEngine.git
+git clone --depth 1 -b carla https://github.com/CarlaUnreal/UnrealEngine.git
 ```
 
 20. Once the file is downloaded through git, we will set the folder to the downloaded folder in command line 
