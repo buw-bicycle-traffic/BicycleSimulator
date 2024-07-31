@@ -21,7 +21,7 @@ Discuss how the sensor records speeds, explain the design of the sensor, how to 
 
 ## Power Sensor
 
-Discuss how the sensor records power, explain the desing of the sensor, how to connect the sensor to the bike computer. 
+Discuss how the sensor records power, explain the design of the sensor, how to connect the sensor to the bike computer. 
 
 
 # NEED TO ADD DESIGN FILES HERE IN THIS SECTION FOR EACH CUSTOM PIECE OF THE SIMULATOR
