@@ -9,4 +9,4 @@ authors:
 tags: [greetings]
 ---
 
-Congratulations and welcome to the BISIMEYER Standard!
+Congratulations and welcome to the Open Bicycle Simulator Standard!
