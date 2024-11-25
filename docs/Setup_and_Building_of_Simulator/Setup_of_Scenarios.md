@@ -113,9 +113,9 @@ Now with all the important pieces of data for RoadRunner, which includes the OSM
 
 10. Now, with all the necessary data to create your scenario in your scene, we can start creating the road network. This can easily be done by using the road plan tool found in the upper left side of the program
 
-11. Clicking on this should bring you into the tool, and you can start adding roads to your scene. Simply right-click on the location you would like to start a  street and then once again to end the segment
+11. Clicking on this should bring you into the tool, and you can start adding roads to your scene. Right-click to set the roads control points, left-click to complete the road
 
-12. Now with your first street in your desired location, we can add some detail to that street. First, we can add topography data by telling Roadrunner to add the topography data to the streets by clicking on project roads on the left side of the program
+12. Now with your first street in your desired location, we can add topography data by telling Roadrunner to add the topography data to the streets by clicking on project roads on the left side of the program
 
 ![Roadrunner6](./RR6.jpg)
 
@@ -123,25 +123,25 @@ Now with all the important pieces of data for RoadRunner, which includes the OSM
 
 ![Roadrunner7](./RR7.png)
 
-14. The blue line indicates the elevation of the topography data (the resolution of the topography map on this was poor, which caused the stair stepping effect), the purple line is the selected road, and the green line is the elevation of the intersecting road. You can adjust the profile of the road by moving the purple dots to better fit the topography and intersections
+14. The blue line indicates the elevation of the topography data, the purple line is the selected road, and the green line is the elevation of the intersecting road. You can adjust the profile of the road by moving the purple dots  to better fit the topography and intersections
 
 15. You can also add more elevation points on the road segment by right-clicking on the purple profile line and moving them accordingly
 
-16. You may have also noticed the road you have placed is incorrect or not matching the road you are trying to replicate. RoadRunner provides a few different types of roads, but is not limited to just these road types, as roads can be adjusted to your needs. To change the road, you can navigate to the RoadStyles folder in the library browser
-
-17. In the RoadStyles folder, you will find a few different road types. You can grab one of these road types and apply it to your road. Simply drag the road type to the road segment, and it will change the road segment
+16. To change the roads cross-section, RoadRunner provides a few basic road types in the RoadStyles folder. Drag a RoadStyle from the library Browser to the road segment to apply it. While these provide a starting point, RoadRunner also allows you to edit a road's geometry by adding lanes, changing widths, and changing directions.
+17. 
 
 ![Roadrunner8](./RR8.png)
 
-18. This is a great way to change the road segment to fit your needs, but you may notice it is quite limited on what road types provide and that your road segment is a one-off case and does not fit one of these road styles. To fix this or change the road segment, we can add lanes, adjust lane width, sidewalk width, and adjust the direction of lanes
 
-19. Adding lanes is quite easy, you just need to click on the lane add tool in the middle of the toolbar on the top and once active you can now add lanes to your road segment
+19. To add a lane, select the Lane add tool at the top. Create a lane by right-clicking on the edges of an existing lane. RoadRunner adds lanes from the road's center axis outwards. 
 
+21. Roads can also be added by using the Lane Form and the Lane Carve tool. These can be used to add shorter lanes, such as for Left turns. The Lane carve tool substracts from an existing road, while the lane form adds to the width of the road
+    
 ![Roadrunner9](./RR9.jpg)
 
-20. With the lane add tool active, you can add lanes to your road segment by right-clicking on the road segment red lines, which indicate the lanes on the road segment
+21. With the lane add tool active, you can add lanes to your road segment by right-clicking on the road segment red lines, which indicate the lanes on the road segment
     
-21. You can specify which type of lane type is added, the list of lane types can be found on the right side of the program. The default option for lane type is automatic, which will add lanes in comparison to the other lanes around it
+22. You can specify which type of lane type is added, the list of lane types can be found on the right side of the program. The default option for lane type is automatic, which will add lanes in comparison to the other lanes around it
 
 ![Roadrunner10](./RR10.png)
 
