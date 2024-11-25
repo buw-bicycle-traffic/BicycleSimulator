@@ -121,35 +121,32 @@ Now with all the important pieces of data for RoadRunner, which includes the OSM
 
 13. We have now added topography to our roads. If there are issues with some sharp corners on the street, this is probably due to issues in the elevation data and or with intersections. This can be solved by looking at the profile of the roads in the bottom left
 
-![Roadrunner7](./RR7.png)
+![Roadrunner7](./RR7_1.png)
 
 14. The blue line indicates the elevation of the topography data, the purple line is the selected road, and the green line is the elevation of the intersecting road. You can adjust the profile of the road by moving the purple dots  to better fit the topography and intersections
 
 15. You can also add more elevation points on the road segment by right-clicking on the purple profile line and moving them accordingly
 
-16. To change the roads cross-section, RoadRunner provides a few basic road types in the RoadStyles folder. Drag a RoadStyle from the library Browser to the road segment to apply it. While these provide a starting point, RoadRunner also allows you to edit a road's geometry by adding lanes, changing widths, and changing directions.
-17. 
+16. To change the roads cross-section, RoadRunner provides a few basic road types in the RoadStyles folder. You can apply a RoadStyle by dragging it from the file explorer to the Road segment. While these provide a starting point, RoadRunner also allows you to edit a road's geometry by adding lanes, changing widths, and changing directions.
 
 ![Roadrunner8](./RR8.png)
 
 
-19. To add a lane, select the Lane add tool at the top. Create a lane by right-clicking on the edges of an existing lane. RoadRunner adds lanes from the road's center axis outwards. 
+17. To add a lane, select the Lane add tool at the top. Create a lane by right-clicking on the edges of an existing lane. RoadRunner adds lanes from the road's center axis outward
 
-21. Roads can also be added by using the Lane Form and the Lane Carve tool. These can be used to add shorter lanes, such as for Left turns. The Lane carve tool substracts from an existing road, while the lane form adds to the width of the road
+18. Roads can also be added by using the Lane Form and the Lane Carve tool. These can be used to add shorter lanes, such as for Left turns. The Lane carve tool substracts from an existing road, while the lane form adds to the width of the road. To remove lanes, select them (best done in the lane tool) and hit delete 
     
 ![Roadrunner9](./RR9.jpg)
 
-21. With the lane add tool active, you can add lanes to your road segment by right-clicking on the road segment red lines, which indicate the lanes on the road segment
-    
-22. You can specify which type of lane type is added, the list of lane types can be found on the right side of the program. The default option for lane type is automatic, which will add lanes in comparison to the other lanes around it
+19. You can specify which type of lane type is added, the list of lane types can be found on the right side of the program. The default option for lane type is automatic, which will add lanes in comparison to the other lanes around it
 
 ![Roadrunner10](./RR10.png)
 
-22. Now, with the additional lanes added, you may want to adjust the width of those lanes to fit and better represent the area you are trying to recreate. To do this, you can adjust the lane width with the lane width tool, which can be found in the middle of the toolbar. To remove lanes, select them (best done in the lane tool) and hit delete 
+22. Now, with the additional lanes added, you may want to adjust the width of those lanes to fit and better represent the area you are trying to recreate. To do this, you can adjust the lane width with the lane width tool, which can be found in the middle of the toolbar.
 
 ![Roadrunner11](./RR11.jpg)
 
-23. Clicking on a lane brings up a window on the right side of the program where you will find  and adjust the current width
+23. Clicking on a lane brings up a window on the right side of the program where you will find  and adjust the current width. Both the width of a lane edge and the width of control points can be changed.
     
 ![Roadrunner12](./RR12.png)
 
