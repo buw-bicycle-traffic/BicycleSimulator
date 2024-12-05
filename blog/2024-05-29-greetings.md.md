@@ -4,7 +4,7 @@ title: Greetings!
 authors:
   - name: Jack Stockman
     title: Co-creator of Open Bicycle Simulator Standard
-    url: https://github.com/JoelMarcey
+    url: https://github.com/jackmad101
     image_url: https://github.com/jackmad101.png
 tags: [greetings]
 ---
