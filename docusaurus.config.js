@@ -45,14 +45,14 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/jackmad101/bicyclesimulator/tree/deployment',
+            'https://github.com/buw-bicycle-traffic/bicyclesimulator/tree/deployment',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/jackmad101/bicyclesimulator/tree/deployment',
+            'https://github.com/buw-bicycle-traffic/bicyclesimulator/tree/deployment',
         },
         theme: {
           customCss: './src/css/custom.css',
