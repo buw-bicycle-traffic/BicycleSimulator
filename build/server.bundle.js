@@ -451,7 +451,7 @@ var react = __webpack_require__(6540);
 // EXTERNAL MODULE: ./.docusaurus/docusaurus.config.mjs
 var docusaurus_config = __webpack_require__(4784);
 ;// CONCATENATED MODULE: ./.docusaurus/globalData.json
-const globalData_namespaceObject = /*#__PURE__*/JSON.parse('{"docusaurus-plugin-content-docs":{"default":{"path":"/BISIMEYER/docs","versions":[{"name":"current","label":"Next","isLast":true,"path":"/BISIMEYER/docs","mainDocId":"IntroductionBISIM","docs":[{"id":"BISIMEYER Overview/Equipment-requirements","path":"/BISIMEYER/docs/BISIMEYER Overview/Equipment-requirements","sidebar":"tutorialSidebar"},{"id":"BISIMEYER Overview/introduction","path":"/BISIMEYER/docs/BISIMEYER Overview/introduction","sidebar":"tutorialSidebar"},{"id":"BISIMEYER Overview/small_electronics","path":"/BISIMEYER/docs/BISIMEYER Overview/small_electronics","sidebar":"tutorialSidebar"},{"id":"BISIMEYER Overview/Software","path":"/BISIMEYER/docs/BISIMEYER Overview/Software","sidebar":"tutorialSidebar"},{"id":"Calabration_and_Validation/Calabration","path":"/BISIMEYER/docs/Calabration_and_Validation/Calabration","sidebar":"tutorialSidebar"},{"id":"Calabration_and_Validation/Valadation","path":"/BISIMEYER/docs/Calabration_and_Validation/Valadation","sidebar":"tutorialSidebar"},{"id":"IntroductionBISIM","path":"/BISIMEYER/docs/IntroductionBISIM","sidebar":"tutorialSidebar"},{"id":"Reseach_Methodology/ethics","path":"/BISIMEYER/docs/Reseach_Methodology/ethics","sidebar":"tutorialSidebar"},{"id":"Reseach_Methodology/measured_inputs","path":"/BISIMEYER/docs/Reseach_Methodology/measured_inputs","sidebar":"tutorialSidebar"},{"id":"Reseach_Methodology/Simulator_Training","path":"/BISIMEYER/docs/Reseach_Methodology/Simulator_Training","sidebar":"tutorialSidebar"},{"id":"Setup_and_Building_of_Simulator/Computer_Setup","path":"/BISIMEYER/docs/Setup_and_Building_of_Simulator/Computer_Setup","sidebar":"tutorialSidebar"},{"id":"Setup_and_Building_of_Simulator/Setup_of_Scenarios","path":"/BISIMEYER/docs/Setup_and_Building_of_Simulator/Setup_of_Scenarios","sidebar":"tutorialSidebar"},{"id":"Setup_and_Building_of_Simulator/Simulator_Setup","path":"/BISIMEYER/docs/Setup_and_Building_of_Simulator/Simulator_Setup","sidebar":"tutorialSidebar"},{"id":"/category/bismeyer-overview","path":"/BISIMEYER/docs/category/bismeyer-overview","sidebar":"tutorialSidebar"},{"id":"/category/setup-and-building-of-simulator","path":"/BISIMEYER/docs/category/setup-and-building-of-simulator","sidebar":"tutorialSidebar"},{"id":"/category/calabration-and-validation","path":"/BISIMEYER/docs/category/calabration-and-validation","sidebar":"tutorialSidebar"},{"id":"/category/research-methodology","path":"/BISIMEYER/docs/category/research-methodology","sidebar":"tutorialSidebar"}],"draftIds":[],"sidebars":{"tutorialSidebar":{"link":{"path":"/BISIMEYER/docs/IntroductionBISIM","label":"IntroductionBISIM"}}}}],"breadcrumbs":true}}}');
+const globalData_namespaceObject = /*#__PURE__*/JSON.parse('{"docusaurus-plugin-content-docs":{"default":{"path":"/BISIM/docs","versions":[{"name":"current","label":"Next","isLast":true,"path":"/BISIM/docs","mainDocId":"IntroductionBISIM","docs":[{"id":"BISIM Overview/Equipment-requirements","path":"/BISIM/docs/BISIM Overview/Equipment-requirements","sidebar":"tutorialSidebar"},{"id":"BISIM Overview/introduction","path":"/BISIM/docs/BISIM Overview/introduction","sidebar":"tutorialSidebar"},{"id":"BISIM Overview/small_electronics","path":"/BISIM/docs/BISIM Overview/small_electronics","sidebar":"tutorialSidebar"},{"id":"BISIM Overview/Software","path":"/BISIM/docs/BISIM Overview/Software","sidebar":"tutorialSidebar"},{"id":"Calabration_and_Validation/Calabration","path":"/BISIM/docs/Calabration_and_Validation/Calabration","sidebar":"tutorialSidebar"},{"id":"Calabration_and_Validation/Valadation","path":"/BISIM/docs/Calabration_and_Validation/Valadation","sidebar":"tutorialSidebar"},{"id":"IntroductionBISIM","path":"/BISIM/docs/IntroductionBISIM","sidebar":"tutorialSidebar"},{"id":"Reseach_Methodology/ethics","path":"/BISIM/docs/Reseach_Methodology/ethics","sidebar":"tutorialSidebar"},{"id":"Reseach_Methodology/measured_inputs","path":"/BISIM/docs/Reseach_Methodology/measured_inputs","sidebar":"tutorialSidebar"},{"id":"Reseach_Methodology/Simulator_Training","path":"/BISIM/docs/Reseach_Methodology/Simulator_Training","sidebar":"tutorialSidebar"},{"id":"Setup_and_Building_of_Simulator/Computer_Setup","path":"/BISIM/docs/Setup_and_Building_of_Simulator/Computer_Setup","sidebar":"tutorialSidebar"},{"id":"Setup_and_Building_of_Simulator/Setup_of_Scenarios","path":"/BISIM/docs/Setup_and_Building_of_Simulator/Setup_of_Scenarios","sidebar":"tutorialSidebar"},{"id":"Setup_and_Building_of_Simulator/Simulator_Setup","path":"/BISIM/docs/Setup_and_Building_of_Simulator/Simulator_Setup","sidebar":"tutorialSidebar"},{"id":"/category/bismeyer-overview","path":"/BISIM/docs/category/bismeyer-overview","sidebar":"tutorialSidebar"},{"id":"/category/setup-and-building-of-simulator","path":"/BISIM/docs/category/setup-and-building-of-simulator","sidebar":"tutorialSidebar"},{"id":"/category/calabration-and-validation","path":"/BISIM/docs/category/calabration-and-validation","sidebar":"tutorialSidebar"},{"id":"/category/research-methodology","path":"/BISIM/docs/category/research-methodology","sidebar":"tutorialSidebar"}],"draftIds":[],"sidebars":{"tutorialSidebar":{"link":{"path":"/BISIM/docs/IntroductionBISIM","label":"IntroductionBISIM"}}}}],"breadcrumbs":true}}}');
 ;// CONCATENATED MODULE: ./.docusaurus/i18n.json
 const i18n_namespaceObject = /*#__PURE__*/JSON.parse('{"defaultLocale":"en","locales":["en"],"path":"i18n","currentLocale":"en","localeConfigs":{"en":{"label":"English","direction":"ltr","htmlLang":"en","calendar":"gregory","path":"en"}}}');
 // EXTERNAL MODULE: ./.docusaurus/codeTranslations.json
@@ -1532,9 +1532,9 @@ var node_modules_react = __webpack_require__(6540);
 var lib = __webpack_require__(3259);
 var lib_default = /*#__PURE__*/__webpack_require__.n(lib);
 ;// CONCATENATED MODULE: ./.docusaurus/routesChunkNames.json
-const routesChunkNames_namespaceObject = /*#__PURE__*/JSON.parse('{"/BISIMEYER/blog-a8e":{"__comp":"a6aa9e1f","__context":{"plugin":"36994c47"},"sidebar":"814f3328","items":[{"content":"d5695e1d"}],"__props":"575f5d6a"},"/BISIMEYER/blog/archive-2b3":{"__comp":"9e4087bc","__context":{"plugin":"36994c47"},"__props":"e08ea65a"},"/BISIMEYER/blog/greetings-c09":{"__comp":"ccc49370","__context":{"data":{"blogMetadata":"acecf23e"},"plugin":"36994c47"},"sidebar":"814f3328","content":"dfcd332c"},"/BISIMEYER/blog/tags-a3a":{"__comp":"01a85c17","__context":{"plugin":"36994c47"},"sidebar":"814f3328","__props":"ebbfb0f5"},"/BISIMEYER/blog/tags/greetings-4b9":{"__comp":"6875c492","__context":{"plugin":"36994c47"},"sidebar":"814f3328","items":[{"content":"d5695e1d"}],"__props":"e0c3a30f"},"/BISIMEYER/markdown-page-1d7":{"__comp":"1f391b9e","__context":{"plugin":"a7456010"},"content":"393be207"},"/BISIMEYER/my-markdown-page-2e8":{"__comp":"1f391b9e","__context":{"plugin":"a7456010"},"content":"03181aef"},"/BISIMEYER/my-react-page-121":{"__comp":"f8551aab","__context":{"plugin":"a7456010"},"config":"5e9f5e1a"},"/BISIMEYER/docs-aae":{"__comp":"5e95c892","__context":{"plugin":"aba21aa0"}},"/BISIMEYER/docs-f14":{"__comp":"a7bd4aaa","__props":"82c7309a"},"/BISIMEYER/docs-b3e":{"__comp":"a94703ab"},"/BISIMEYER/docs/BISIMEYER Overview/Equipment-requirements-b4c":{"__comp":"17896441","content":"c40f593d"},"/BISIMEYER/docs/BISIMEYER Overview/introduction-a92":{"__comp":"17896441","content":"8a3c8975"},"/BISIMEYER/docs/BISIMEYER Overview/small_electronics-46f":{"__comp":"17896441","content":"a0db9555"},"/BISIMEYER/docs/BISIMEYER Overview/Software-82d":{"__comp":"17896441","content":"d071175c"},"/BISIMEYER/docs/Calabration_and_Validation/Calabration-ba1":{"__comp":"17896441","content":"3a6b3dcd"},"/BISIMEYER/docs/Calabration_and_Validation/Valadation-26e":{"__comp":"17896441","content":"74d0225a"},"/BISIMEYER/docs/category/bismeyer-overview-e6b":{"__comp":"14eb3368","__props":"807919fb"},"/BISIMEYER/docs/category/calabration-and-validation-9d6":{"__comp":"14eb3368","__props":"697c3361"},"/BISIMEYER/docs/category/research-methodology-c5a":{"__comp":"14eb3368","__props":"cbe41715"},"/BISIMEYER/docs/category/setup-and-building-of-simulator-0a9":{"__comp":"14eb3368","__props":"2673560b"},"/BISIMEYER/docs/IntroductionBISIM-86d":{"__comp":"17896441","content":"cbe5cb23"},"/BISIMEYER/docs/Reseach_Methodology/ethics-94b":{"__comp":"17896441","content":"1d081970"},"/BISIMEYER/docs/Reseach_Methodology/measured_inputs-d5a":{"__comp":"17896441","content":"0ecf3cdf"},"/BISIMEYER/docs/Reseach_Methodology/Simulator_Training-ebf":{"__comp":"17896441","content":"1eff1d1a"},"/BISIMEYER/docs/Setup_and_Building_of_Simulator/Computer_Setup-a34":{"__comp":"17896441","content":"c4249b00"},"/BISIMEYER/docs/Setup_and_Building_of_Simulator/Setup_of_Scenarios-9d6":{"__comp":"17896441","content":"fe201739"},"/BISIMEYER/docs/Setup_and_Building_of_Simulator/Simulator_Setup-d69":{"__comp":"17896441","content":"2e99b2ab"},"/BISIMEYER/-faf":{"__comp":"c4f5d8e4","__context":{"plugin":"a7456010"},"config":"5e9f5e1a"}}');
+const routesChunkNames_namespaceObject = /*#__PURE__*/JSON.parse('{"/BISIM/blog-a8e":{"__comp":"a6aa9e1f","__context":{"plugin":"36994c47"},"sidebar":"814f3328","items":[{"content":"d5695e1d"}],"__props":"575f5d6a"},"/BISIM/blog/archive-2b3":{"__comp":"9e4087bc","__context":{"plugin":"36994c47"},"__props":"e08ea65a"},"/BISIM/blog/greetings-c09":{"__comp":"ccc49370","__context":{"data":{"blogMetadata":"acecf23e"},"plugin":"36994c47"},"sidebar":"814f3328","content":"dfcd332c"},"/BISIM/blog/tags-a3a":{"__comp":"01a85c17","__context":{"plugin":"36994c47"},"sidebar":"814f3328","__props":"ebbfb0f5"},"/BISIM/blog/tags/greetings-4b9":{"__comp":"6875c492","__context":{"plugin":"36994c47"},"sidebar":"814f3328","items":[{"content":"d5695e1d"}],"__props":"e0c3a30f"},"/BISIM/markdown-page-1d7":{"__comp":"1f391b9e","__context":{"plugin":"a7456010"},"content":"393be207"},"/BISIM/my-markdown-page-2e8":{"__comp":"1f391b9e","__context":{"plugin":"a7456010"},"content":"03181aef"},"/BISIM/my-react-page-121":{"__comp":"f8551aab","__context":{"plugin":"a7456010"},"config":"5e9f5e1a"},"/BISIM/docs-aae":{"__comp":"5e95c892","__context":{"plugin":"aba21aa0"}},"/BISIM/docs-f14":{"__comp":"a7bd4aaa","__props":"82c7309a"},"/BISIM/docs-b3e":{"__comp":"a94703ab"},"/BISIM/docs/BISIM Overview/Equipment-requirements-b4c":{"__comp":"17896441","content":"c40f593d"},"/BISIM/docs/BISIM Overview/introduction-a92":{"__comp":"17896441","content":"8a3c8975"},"/BISIM/docs/BISIM Overview/small_electronics-46f":{"__comp":"17896441","content":"a0db9555"},"/BISIM/docs/BISIM Overview/Software-82d":{"__comp":"17896441","content":"d071175c"},"/BISIM/docs/Calabration_and_Validation/Calabration-ba1":{"__comp":"17896441","content":"3a6b3dcd"},"/BISIM/docs/Calabration_and_Validation/Valadation-26e":{"__comp":"17896441","content":"74d0225a"},"/BISIM/docs/category/bismeyer-overview-e6b":{"__comp":"14eb3368","__props":"807919fb"},"/BISIM/docs/category/calabration-and-validation-9d6":{"__comp":"14eb3368","__props":"697c3361"},"/BISIM/docs/category/research-methodology-c5a":{"__comp":"14eb3368","__props":"cbe41715"},"/BISIM/docs/category/setup-and-building-of-simulator-0a9":{"__comp":"14eb3368","__props":"2673560b"},"/BISIM/docs/IntroductionBISIM-86d":{"__comp":"17896441","content":"cbe5cb23"},"/BISIM/docs/Reseach_Methodology/ethics-94b":{"__comp":"17896441","content":"1d081970"},"/BISIM/docs/Reseach_Methodology/measured_inputs-d5a":{"__comp":"17896441","content":"0ecf3cdf"},"/BISIM/docs/Reseach_Methodology/Simulator_Training-ebf":{"__comp":"17896441","content":"1eff1d1a"},"/BISIM/docs/Setup_and_Building_of_Simulator/Computer_Setup-a34":{"__comp":"17896441","content":"c4249b00"},"/BISIM/docs/Setup_and_Building_of_Simulator/Setup_of_Scenarios-9d6":{"__comp":"17896441","content":"fe201739"},"/BISIM/docs/Setup_and_Building_of_Simulator/Simulator_Setup-d69":{"__comp":"17896441","content":"2e99b2ab"},"/BISIM/-faf":{"__comp":"c4f5d8e4","__context":{"plugin":"a7456010"},"config":"5e9f5e1a"}}');
 ;// CONCATENATED MODULE: ./.docusaurus/registry.js
-/* harmony default export */ const registry = ({"01a85c17":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(5068))),"@theme/BlogTagsListPage",/*require.resolve*/(5068)],"03181aef":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(6565))),"@site/src/pages/my-markdown-page.md",/*require.resolve*/(6565)],"0ecf3cdf":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(4286))),"@site/docs/Reseach_Methodology/measured_inputs.md",/*require.resolve*/(4286)],"14eb3368":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(8367))),"@theme/DocCategoryGeneratedIndexPage",/*require.resolve*/(8367)],"17896441":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(3348))),"@theme/DocItem",/*require.resolve*/(3348)],"1d081970":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(1400))),"@site/docs/Reseach_Methodology/ethics.md",/*require.resolve*/(1400)],"1eff1d1a":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(9861))),"@site/docs/Reseach_Methodology/Simulator_Training.md",/*require.resolve*/(9861)],"1f391b9e":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(4250))),"@theme/MDXPage",/*require.resolve*/(4250)],"2673560b":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(8350))),"@generated/docusaurus-plugin-content-docs/default/p/bisimeyer-docs-category-setup-and-building-of-simulator-f80.json",/*require.resolve*/(8350)],"2e99b2ab":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(2192))),"@site/docs/Setup_and_Building_of_Simulator/Simulator_Setup.md",/*require.resolve*/(2192)],"36994c47":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(5516))),"@generated/docusaurus-plugin-content-blog/default/__plugin.json",/*require.resolve*/(5516)],"393be207":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(6602))),"@site/src/pages/markdown-page.md",/*require.resolve*/(6602)],"3a6b3dcd":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(1175))),"@site/docs/Calabration_and_Validation/Calabration.md",/*require.resolve*/(1175)],"575f5d6a":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(1211))),"@generated/docusaurus-plugin-content-blog/default/p/bisimeyer-blog-741.json",/*require.resolve*/(1211)],"5e95c892":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(7121))),"@theme/DocsRoot",/*require.resolve*/(7121)],"5e9f5e1a":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(4784))),"@generated/docusaurus.config",/*require.resolve*/(4784)],"6875c492":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(3069))),"@theme/BlogTagsPostsPage",/*require.resolve*/(3069)],"697c3361":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(5337))),"@generated/docusaurus-plugin-content-docs/default/p/bisimeyer-docs-category-calabration-and-validation-0bb.json",/*require.resolve*/(5337)],"74d0225a":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(1547))),"@site/docs/Calabration_and_Validation/Valadation.md",/*require.resolve*/(1547)],"807919fb":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(2695))),"@generated/docusaurus-plugin-content-docs/default/p/bisimeyer-docs-category-bismeyer-overview-76c.json",/*require.resolve*/(2695)],"814f3328":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(5513))),"~blog/default/blog-post-list-prop-default.json",/*require.resolve*/(5513)],"82c7309a":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(6927))),"@generated/docusaurus-plugin-content-docs/default/p/bisimeyer-docs-ac8.json",/*require.resolve*/(6927)],"8a3c8975":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(9627))),"@site/docs/BISIMEYER Overview/introduction.md",/*require.resolve*/(9627)],"9e4087bc":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(9331))),"@theme/BlogArchivePage",/*require.resolve*/(9331)],"a0db9555":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(4708))),"@site/docs/BISIMEYER Overview/small_electronics.md",/*require.resolve*/(4708)],"a6aa9e1f":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(5124))),"@theme/BlogListPage",/*require.resolve*/(5124)],"a7456010":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(8552))),"@generated/docusaurus-plugin-content-pages/default/__plugin.json",/*require.resolve*/(8552)],"a7bd4aaa":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(4532))),"@theme/DocVersionRoot",/*require.resolve*/(4532)],"a94703ab":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(7151))),"@theme/DocRoot",/*require.resolve*/(7151)],"aba21aa0":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(7093))),"@generated/docusaurus-plugin-content-docs/default/__plugin.json",/*require.resolve*/(7093)],"acecf23e":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(1912))),"~blog/default/blogMetadata-default.json",/*require.resolve*/(1912)],"c40f593d":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(4540))),"@site/docs/BISIMEYER Overview/Equipment-requirements.md",/*require.resolve*/(4540)],"c4249b00":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(2797))),"@site/docs/Setup_and_Building_of_Simulator/Computer_Setup.md",/*require.resolve*/(2797)],"c4f5d8e4":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(2259))),"@site/src/pages/index.js",/*require.resolve*/(2259)],"cbe41715":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(4086))),"@generated/docusaurus-plugin-content-docs/default/p/bisimeyer-docs-category-research-methodology-970.json",/*require.resolve*/(4086)],"cbe5cb23":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(34))),"@site/docs/IntroductionBISIM.md",/*require.resolve*/(34)],"ccc49370":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(3858))),"@theme/BlogPostPage",/*require.resolve*/(3858)],"d071175c":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(8338))),"@site/docs/BISIMEYER Overview/Software.md",/*require.resolve*/(8338)],"d5695e1d":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(3808))),"@site/blog/2024-05-29-greetings.md.md?truncated=true",/*require.resolve*/(3808)],"dfcd332c":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(8292))),"@site/blog/2024-05-29-greetings.md.md",/*require.resolve*/(8292)],"e08ea65a":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(5493))),"@generated/docusaurus-plugin-content-blog/default/p/bisimeyer-blog-archive-711.json",/*require.resolve*/(5493)],"e0c3a30f":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(7859))),"@generated/docusaurus-plugin-content-blog/default/p/bisimeyer-blog-tags-greetings-47f.json",/*require.resolve*/(7859)],"ebbfb0f5":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(731))),"@generated/docusaurus-plugin-content-blog/default/p/bisimeyer-blog-tags-31d.json",/*require.resolve*/(731)],"f8551aab":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(1976))),"@site/src/pages/my-react-page.js",/*require.resolve*/(1976)],"fe201739":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(1157))),"@site/docs/Setup_and_Building_of_Simulator/Setup_of_Scenarios.md",/*require.resolve*/(1157)]});
+/* harmony default export */ const registry = ({"01a85c17":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(5068))),"@theme/BlogTagsListPage",/*require.resolve*/(5068)],"03181aef":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(6565))),"@site/src/pages/my-markdown-page.md",/*require.resolve*/(6565)],"0ecf3cdf":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(4286))),"@site/docs/Reseach_Methodology/measured_inputs.md",/*require.resolve*/(4286)],"14eb3368":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(8367))),"@theme/DocCategoryGeneratedIndexPage",/*require.resolve*/(8367)],"17896441":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(3348))),"@theme/DocItem",/*require.resolve*/(3348)],"1d081970":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(1400))),"@site/docs/Reseach_Methodology/ethics.md",/*require.resolve*/(1400)],"1eff1d1a":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(9861))),"@site/docs/Reseach_Methodology/Simulator_Training.md",/*require.resolve*/(9861)],"1f391b9e":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(4250))),"@theme/MDXPage",/*require.resolve*/(4250)],"2673560b":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(8350))),"@generated/docusaurus-plugin-content-docs/default/p/BISIM-docs-category-setup-and-building-of-simulator-f80.json",/*require.resolve*/(8350)],"2e99b2ab":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(2192))),"@site/docs/Setup_and_Building_of_Simulator/Simulator_Setup.md",/*require.resolve*/(2192)],"36994c47":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(5516))),"@generated/docusaurus-plugin-content-blog/default/__plugin.json",/*require.resolve*/(5516)],"393be207":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(6602))),"@site/src/pages/markdown-page.md",/*require.resolve*/(6602)],"3a6b3dcd":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(1175))),"@site/docs/Calabration_and_Validation/Calabration.md",/*require.resolve*/(1175)],"575f5d6a":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(1211))),"@generated/docusaurus-plugin-content-blog/default/p/BISIM-blog-741.json",/*require.resolve*/(1211)],"5e95c892":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(7121))),"@theme/DocsRoot",/*require.resolve*/(7121)],"5e9f5e1a":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(4784))),"@generated/docusaurus.config",/*require.resolve*/(4784)],"6875c492":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(3069))),"@theme/BlogTagsPostsPage",/*require.resolve*/(3069)],"697c3361":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(5337))),"@generated/docusaurus-plugin-content-docs/default/p/BISIM-docs-category-calabration-and-validation-0bb.json",/*require.resolve*/(5337)],"74d0225a":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(1547))),"@site/docs/Calabration_and_Validation/Valadation.md",/*require.resolve*/(1547)],"807919fb":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(2695))),"@generated/docusaurus-plugin-content-docs/default/p/BISIM-docs-category-bismeyer-overview-76c.json",/*require.resolve*/(2695)],"814f3328":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(5513))),"~blog/default/blog-post-list-prop-default.json",/*require.resolve*/(5513)],"82c7309a":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(6927))),"@generated/docusaurus-plugin-content-docs/default/p/BISIM-docs-ac8.json",/*require.resolve*/(6927)],"8a3c8975":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(9627))),"@site/docs/BISIM Overview/introduction.md",/*require.resolve*/(9627)],"9e4087bc":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(9331))),"@theme/BlogArchivePage",/*require.resolve*/(9331)],"a0db9555":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(4708))),"@site/docs/BISIM Overview/small_electronics.md",/*require.resolve*/(4708)],"a6aa9e1f":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(5124))),"@theme/BlogListPage",/*require.resolve*/(5124)],"a7456010":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(8552))),"@generated/docusaurus-plugin-content-pages/default/__plugin.json",/*require.resolve*/(8552)],"a7bd4aaa":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(4532))),"@theme/DocVersionRoot",/*require.resolve*/(4532)],"a94703ab":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(7151))),"@theme/DocRoot",/*require.resolve*/(7151)],"aba21aa0":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(7093))),"@generated/docusaurus-plugin-content-docs/default/__plugin.json",/*require.resolve*/(7093)],"acecf23e":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(1912))),"~blog/default/blogMetadata-default.json",/*require.resolve*/(1912)],"c40f593d":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(4540))),"@site/docs/BISIM Overview/Equipment-requirements.md",/*require.resolve*/(4540)],"c4249b00":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(2797))),"@site/docs/Setup_and_Building_of_Simulator/Computer_Setup.md",/*require.resolve*/(2797)],"c4f5d8e4":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(2259))),"@site/src/pages/index.js",/*require.resolve*/(2259)],"cbe41715":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(4086))),"@generated/docusaurus-plugin-content-docs/default/p/BISIM-docs-category-research-methodology-970.json",/*require.resolve*/(4086)],"cbe5cb23":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(34))),"@site/docs/IntroductionBISIM.md",/*require.resolve*/(34)],"ccc49370":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(3858))),"@theme/BlogPostPage",/*require.resolve*/(3858)],"d071175c":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(8338))),"@site/docs/BISIM Overview/Software.md",/*require.resolve*/(8338)],"d5695e1d":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(3808))),"@site/blog/2024-05-29-greetings.md.md?truncated=true",/*require.resolve*/(3808)],"dfcd332c":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(8292))),"@site/blog/2024-05-29-greetings.md.md",/*require.resolve*/(8292)],"e08ea65a":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(5493))),"@generated/docusaurus-plugin-content-blog/default/p/BISIM-blog-archive-711.json",/*require.resolve*/(5493)],"e0c3a30f":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(7859))),"@generated/docusaurus-plugin-content-blog/default/p/BISIM-blog-tags-greetings-47f.json",/*require.resolve*/(7859)],"ebbfb0f5":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(731))),"@generated/docusaurus-plugin-content-blog/default/p/BISIM-blog-tags-31d.json",/*require.resolve*/(731)],"f8551aab":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(1976))),"@site/src/pages/my-react-page.js",/*require.resolve*/(1976)],"fe201739":[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(1157))),"@site/docs/Setup_and_Building_of_Simulator/Setup_of_Scenarios.md",/*require.resolve*/(1157)]});
 // EXTERNAL MODULE: ./node_modules/react/jsx-runtime.js
 var jsx_runtime = __webpack_require__(4848);
 ;// CONCATENATED MODULE: ./node_modules/@docusaurus/core/lib/client/theme-fallback/Loading/index.js
@@ -1598,7 +1598,7 @@ if(typeof chunk==='object'||typeof chunk==='function'){Object.keys(loadedModule)
 let val=loadedModules;const keyPaths=keyPath.split('.');keyPaths.slice(0,-1).forEach(k=>{val=val[k];});val[keyPaths[keyPaths.length-1]]=chunk;});/* eslint-disable no-underscore-dangle */const Component=loadedModules.__comp;delete loadedModules.__comp;const routeContext=loadedModules.__context;delete loadedModules.__context;const routeProps=loadedModules.__props;delete loadedModules.__props;/* eslint-enable no-underscore-dangle */ // Is there any way to put this RouteContextProvider upper in the tree?
 return/*#__PURE__*/(0,jsx_runtime.jsx)(client_routeContext/* RouteContextProvider */.W,{value:routeContext,children:/*#__PURE__*/(0,jsx_runtime.jsx)(Component,{...loadedModules,...routeProps,...props})});}});}
 ;// CONCATENATED MODULE: ./.docusaurus/routes.js
-/* harmony default export */ const routes = ([{path:'/BISIMEYER/blog',component:ComponentCreator('/BISIMEYER/blog','a8e'),exact:true},{path:'/BISIMEYER/blog/archive',component:ComponentCreator('/BISIMEYER/blog/archive','2b3'),exact:true},{path:'/BISIMEYER/blog/greetings',component:ComponentCreator('/BISIMEYER/blog/greetings','c09'),exact:true},{path:'/BISIMEYER/blog/tags',component:ComponentCreator('/BISIMEYER/blog/tags','a3a'),exact:true},{path:'/BISIMEYER/blog/tags/greetings',component:ComponentCreator('/BISIMEYER/blog/tags/greetings','4b9'),exact:true},{path:'/BISIMEYER/markdown-page',component:ComponentCreator('/BISIMEYER/markdown-page','1d7'),exact:true},{path:'/BISIMEYER/my-markdown-page',component:ComponentCreator('/BISIMEYER/my-markdown-page','2e8'),exact:true},{path:'/BISIMEYER/my-react-page',component:ComponentCreator('/BISIMEYER/my-react-page','121'),exact:true},{path:'/BISIMEYER/docs',component:ComponentCreator('/BISIMEYER/docs','aae'),routes:[{path:'/BISIMEYER/docs',component:ComponentCreator('/BISIMEYER/docs','f14'),routes:[{path:'/BISIMEYER/docs',component:ComponentCreator('/BISIMEYER/docs','b3e'),routes:[{path:'/BISIMEYER/docs/BISIMEYER Overview/Equipment-requirements',component:ComponentCreator('/BISIMEYER/docs/BISIMEYER Overview/Equipment-requirements','b4c'),exact:true,sidebar:"tutorialSidebar"},{path:'/BISIMEYER/docs/BISIMEYER Overview/introduction',component:ComponentCreator('/BISIMEYER/docs/BISIMEYER Overview/introduction','a92'),exact:true,sidebar:"tutorialSidebar"},{path:'/BISIMEYER/docs/BISIMEYER Overview/small_electronics',component:ComponentCreator('/BISIMEYER/docs/BISIMEYER Overview/small_electronics','46f'),exact:true,sidebar:"tutorialSidebar"},{path:'/BISIMEYER/docs/BISIMEYER Overview/Software',component:ComponentCreator('/BISIMEYER/docs/BISIMEYER Overview/Software','82d'),exact:true,sidebar:"tutorialSidebar"},{path:'/BISIMEYER/docs/Calabration_and_Validation/Calabration',component:ComponentCreator('/BISIMEYER/docs/Calabration_and_Validation/Calabration','ba1'),exact:true,sidebar:"tutorialSidebar"},{path:'/BISIMEYER/docs/Calabration_and_Validation/Valadation',component:ComponentCreator('/BISIMEYER/docs/Calabration_and_Validation/Valadation','26e'),exact:true,sidebar:"tutorialSidebar"},{path:'/BISIMEYER/docs/category/bismeyer-overview',component:ComponentCreator('/BISIMEYER/docs/category/bismeyer-overview','e6b'),exact:true,sidebar:"tutorialSidebar"},{path:'/BISIMEYER/docs/category/calabration-and-validation',component:ComponentCreator('/BISIMEYER/docs/category/calabration-and-validation','9d6'),exact:true,sidebar:"tutorialSidebar"},{path:'/BISIMEYER/docs/category/research-methodology',component:ComponentCreator('/BISIMEYER/docs/category/research-methodology','c5a'),exact:true,sidebar:"tutorialSidebar"},{path:'/BISIMEYER/docs/category/setup-and-building-of-simulator',component:ComponentCreator('/BISIMEYER/docs/category/setup-and-building-of-simulator','0a9'),exact:true,sidebar:"tutorialSidebar"},{path:'/BISIMEYER/docs/IntroductionBISIM',component:ComponentCreator('/BISIMEYER/docs/IntroductionBISIM','86d'),exact:true,sidebar:"tutorialSidebar"},{path:'/BISIMEYER/docs/Reseach_Methodology/ethics',component:ComponentCreator('/BISIMEYER/docs/Reseach_Methodology/ethics','94b'),exact:true,sidebar:"tutorialSidebar"},{path:'/BISIMEYER/docs/Reseach_Methodology/measured_inputs',component:ComponentCreator('/BISIMEYER/docs/Reseach_Methodology/measured_inputs','d5a'),exact:true,sidebar:"tutorialSidebar"},{path:'/BISIMEYER/docs/Reseach_Methodology/Simulator_Training',component:ComponentCreator('/BISIMEYER/docs/Reseach_Methodology/Simulator_Training','ebf'),exact:true,sidebar:"tutorialSidebar"},{path:'/BISIMEYER/docs/Setup_and_Building_of_Simulator/Computer_Setup',component:ComponentCreator('/BISIMEYER/docs/Setup_and_Building_of_Simulator/Computer_Setup','a34'),exact:true,sidebar:"tutorialSidebar"},{path:'/BISIMEYER/docs/Setup_and_Building_of_Simulator/Setup_of_Scenarios',component:ComponentCreator('/BISIMEYER/docs/Setup_and_Building_of_Simulator/Setup_of_Scenarios','9d6'),exact:true,sidebar:"tutorialSidebar"},{path:'/BISIMEYER/docs/Setup_and_Building_of_Simulator/Simulator_Setup',component:ComponentCreator('/BISIMEYER/docs/Setup_and_Building_of_Simulator/Simulator_Setup','d69'),exact:true,sidebar:"tutorialSidebar"}]}]}]},{path:'/BISIMEYER/',component:ComponentCreator('/BISIMEYER/','faf'),exact:true},{path:'*',component:ComponentCreator('*')}]);
+/* harmony default export */ const routes = ([{path:'/BISIM/blog',component:ComponentCreator('/BISIM/blog','a8e'),exact:true},{path:'/BISIM/blog/archive',component:ComponentCreator('/BISIM/blog/archive','2b3'),exact:true},{path:'/BISIM/blog/greetings',component:ComponentCreator('/BISIM/blog/greetings','c09'),exact:true},{path:'/BISIM/blog/tags',component:ComponentCreator('/BISIM/blog/tags','a3a'),exact:true},{path:'/BISIM/blog/tags/greetings',component:ComponentCreator('/BISIM/blog/tags/greetings','4b9'),exact:true},{path:'/BISIM/markdown-page',component:ComponentCreator('/BISIM/markdown-page','1d7'),exact:true},{path:'/BISIM/my-markdown-page',component:ComponentCreator('/BISIM/my-markdown-page','2e8'),exact:true},{path:'/BISIM/my-react-page',component:ComponentCreator('/BISIM/my-react-page','121'),exact:true},{path:'/BISIM/docs',component:ComponentCreator('/BISIM/docs','aae'),routes:[{path:'/BISIM/docs',component:ComponentCreator('/BISIM/docs','f14'),routes:[{path:'/BISIM/docs',component:ComponentCreator('/BISIM/docs','b3e'),routes:[{path:'/BISIM/docs/BISIM Overview/Equipment-requirements',component:ComponentCreator('/BISIM/docs/BISIM Overview/Equipment-requirements','b4c'),exact:true,sidebar:"tutorialSidebar"},{path:'/BISIM/docs/BISIM Overview/introduction',component:ComponentCreator('/BISIM/docs/BISIM Overview/introduction','a92'),exact:true,sidebar:"tutorialSidebar"},{path:'/BISIM/docs/BISIM Overview/small_electronics',component:ComponentCreator('/BISIM/docs/BISIM Overview/small_electronics','46f'),exact:true,sidebar:"tutorialSidebar"},{path:'/BISIM/docs/BISIM Overview/Software',component:ComponentCreator('/BISIM/docs/BISIM Overview/Software','82d'),exact:true,sidebar:"tutorialSidebar"},{path:'/BISIM/docs/Calabration_and_Validation/Calabration',component:ComponentCreator('/BISIM/docs/Calabration_and_Validation/Calabration','ba1'),exact:true,sidebar:"tutorialSidebar"},{path:'/BISIM/docs/Calabration_and_Validation/Valadation',component:ComponentCreator('/BISIM/docs/Calabration_and_Validation/Valadation','26e'),exact:true,sidebar:"tutorialSidebar"},{path:'/BISIM/docs/category/bismeyer-overview',component:ComponentCreator('/BISIM/docs/category/bismeyer-overview','e6b'),exact:true,sidebar:"tutorialSidebar"},{path:'/BISIM/docs/category/calabration-and-validation',component:ComponentCreator('/BISIM/docs/category/calabration-and-validation','9d6'),exact:true,sidebar:"tutorialSidebar"},{path:'/BISIM/docs/category/research-methodology',component:ComponentCreator('/BISIM/docs/category/research-methodology','c5a'),exact:true,sidebar:"tutorialSidebar"},{path:'/BISIM/docs/category/setup-and-building-of-simulator',component:ComponentCreator('/BISIM/docs/category/setup-and-building-of-simulator','0a9'),exact:true,sidebar:"tutorialSidebar"},{path:'/BISIM/docs/IntroductionBISIM',component:ComponentCreator('/BISIM/docs/IntroductionBISIM','86d'),exact:true,sidebar:"tutorialSidebar"},{path:'/BISIM/docs/Reseach_Methodology/ethics',component:ComponentCreator('/BISIM/docs/Reseach_Methodology/ethics','94b'),exact:true,sidebar:"tutorialSidebar"},{path:'/BISIM/docs/Reseach_Methodology/measured_inputs',component:ComponentCreator('/BISIM/docs/Reseach_Methodology/measured_inputs','d5a'),exact:true,sidebar:"tutorialSidebar"},{path:'/BISIM/docs/Reseach_Methodology/Simulator_Training',component:ComponentCreator('/BISIM/docs/Reseach_Methodology/Simulator_Training','ebf'),exact:true,sidebar:"tutorialSidebar"},{path:'/BISIM/docs/Setup_and_Building_of_Simulator/Computer_Setup',component:ComponentCreator('/BISIM/docs/Setup_and_Building_of_Simulator/Computer_Setup','a34'),exact:true,sidebar:"tutorialSidebar"},{path:'/BISIM/docs/Setup_and_Building_of_Simulator/Setup_of_Scenarios',component:ComponentCreator('/BISIM/docs/Setup_and_Building_of_Simulator/Setup_of_Scenarios','9d6'),exact:true,sidebar:"tutorialSidebar"},{path:'/BISIM/docs/Setup_and_Building_of_Simulator/Simulator_Setup',component:ComponentCreator('/BISIM/docs/Setup_and_Building_of_Simulator/Simulator_Setup','d69'),exact:true,sidebar:"tutorialSidebar"}]}]}]},{path:'/BISIM/',component:ComponentCreator('/BISIM/','faf'),exact:true},{path:'*',component:ComponentCreator('*')}]);
 
 /***/ }),
 
@@ -5738,7 +5738,7 @@ const FeatureList=[{title:'Easy to Source',Svg:(__webpack_require__(1262)/* ["de
 var index_module = __webpack_require__(6830);
 var index_module_default = /*#__PURE__*/__webpack_require__.n(index_module);
 ;// CONCATENATED MODULE: ./src/pages/index.js
-function HomepageHeader(){const{siteConfig}=(0,useDocusaurusContext/* default */.A)();return/*#__PURE__*/(0,jsx_runtime.jsx)("header",{className:(0,clsx/* default */.A)('hero hero--primary',(index_module_default()).heroBanner),children:/*#__PURE__*/(0,jsx_runtime.jsxs)("div",{className:"container",children:[/*#__PURE__*/(0,jsx_runtime.jsx)(Heading/* default */.A,{as:"h1",className:"hero__title",children:siteConfig.title}),/*#__PURE__*/(0,jsx_runtime.jsx)("p",{className:"hero__subtitle",children:siteConfig.tagline}),/*#__PURE__*/(0,jsx_runtime.jsx)("div",{className:(index_module_default()).buttons,children:/*#__PURE__*/(0,jsx_runtime.jsx)(Link/* default */.A,{className:"button button--secondary button--lg",to:"/docs/IntroductionBISIM",children:"BISIMEYER Introduction"})})]})});}function Home(){const{siteConfig}=(0,useDocusaurusContext/* default */.A)();return/*#__PURE__*/(0,jsx_runtime.jsxs)(Layout/* default */.A,{title:`Hello from ${siteConfig.title}`,description:"Description will go into a meta tag in <head />",children:[/*#__PURE__*/(0,jsx_runtime.jsx)(HomepageHeader,{}),/*#__PURE__*/(0,jsx_runtime.jsx)("main",{children:/*#__PURE__*/(0,jsx_runtime.jsx)(HomepageFeatures,{})})]});}
+function HomepageHeader(){const{siteConfig}=(0,useDocusaurusContext/* default */.A)();return/*#__PURE__*/(0,jsx_runtime.jsx)("header",{className:(0,clsx/* default */.A)('hero hero--primary',(index_module_default()).heroBanner),children:/*#__PURE__*/(0,jsx_runtime.jsxs)("div",{className:"container",children:[/*#__PURE__*/(0,jsx_runtime.jsx)(Heading/* default */.A,{as:"h1",className:"hero__title",children:siteConfig.title}),/*#__PURE__*/(0,jsx_runtime.jsx)("p",{className:"hero__subtitle",children:siteConfig.tagline}),/*#__PURE__*/(0,jsx_runtime.jsx)("div",{className:(index_module_default()).buttons,children:/*#__PURE__*/(0,jsx_runtime.jsx)(Link/* default */.A,{className:"button button--secondary button--lg",to:"/docs/IntroductionBISIM",children:"BISIM Introduction"})})]})});}function Home(){const{siteConfig}=(0,useDocusaurusContext/* default */.A)();return/*#__PURE__*/(0,jsx_runtime.jsxs)(Layout/* default */.A,{title:`Hello from ${siteConfig.title}`,description:"Description will go into a meta tag in <head />",children:[/*#__PURE__*/(0,jsx_runtime.jsx)(HomepageHeader,{}),/*#__PURE__*/(0,jsx_runtime.jsx)("main",{children:/*#__PURE__*/(0,jsx_runtime.jsx)(HomepageFeatures,{})})]});}
 
 /***/ }),
 
@@ -10122,7 +10122,7 @@ const frontMatter = {
 const contentTitle = 'Markdown page example';
 const metadata = {
   "type": "mdx",
-  "permalink": "/BISIMEYER/markdown-page",
+  "permalink": "/BISIM/markdown-page",
   "source": "@site/src/pages/markdown-page.md",
   "title": "Markdown page example",
   "description": "You don't need React to write simple standalone pages.",
@@ -10192,7 +10192,7 @@ const frontMatter = {};
 const contentTitle = 'My Markdown page';
 const metadata = {
   "type": "mdx",
-  "permalink": "/BISIMEYER/my-markdown-page",
+  "permalink": "/BISIM/my-markdown-page",
   "source": "@site/src/pages/my-markdown-page.md",
   "title": "My Markdown page",
   "description": "This is a Markdown page",
@@ -10261,16 +10261,16 @@ const frontMatter = {
 };
 const contentTitle = 'Equipment Requirements';
 const metadata = {
-  "id": "BISIMEYER Overview/Equipment-requirements",
+  "id": "BISIM Overview/Equipment-requirements",
   "title": "Equipment Requirements",
   "description": "XXXXX",
-  "source": "@site/docs/BISIMEYER Overview/Equipment-requirements.md",
-  "sourceDirName": "BISIMEYER Overview",
-  "slug": "/BISIMEYER Overview/Equipment-requirements",
-  "permalink": "/BISIMEYER/docs/BISIMEYER Overview/Equipment-requirements",
+  "source": "@site/docs/BISIM Overview/Equipment-requirements.md",
+  "sourceDirName": "BISIM Overview",
+  "slug": "/BISIM Overview/Equipment-requirements",
+  "permalink": "/BISIM/docs/BISIM Overview/Equipment-requirements",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/buw-bicycle-traffic/docs/BISIMEYER Overview/Equipment-requirements.md",
+  "editUrl": "https://github.com/buw-bicycle-traffic/docs/BISIM Overview/Equipment-requirements.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 2,
@@ -10280,11 +10280,11 @@ const metadata = {
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Introduction",
-    "permalink": "/BISIMEYER/docs/BISIMEYER Overview/introduction"
+    "permalink": "/BISIM/docs/BISIM Overview/introduction"
   },
   "next": {
     "title": "Small Electronics",
-    "permalink": "/BISIMEYER/docs/BISIMEYER Overview/small_electronics"
+    "permalink": "/BISIM/docs/BISIM Overview/small_electronics"
   }
 };
 const assets = {
@@ -10450,16 +10450,16 @@ const frontMatter = {
 };
 const contentTitle = 'Software';
 const metadata = {
-  "id": "BISIMEYER Overview/Software",
+  "id": "BISIM Overview/Software",
   "title": "Software",
   "description": "Software is the backbone of the bicycle simulator. Of course, basic simulators may not have any display or just record basic outputs, but with today technology we can create virtual environments and create virtual scenarios. There are two primary pieces of software which are used in virtualization and the creation of the virtual environment and that are Unity and Unreal Engine. Both have been used in many simulation projects. In this case we recommend Unreal Engine, as there has been some more development from other research groups to develop packages which are useful in developing a simulator and managing things like traffic. There are many versions of Unreal Engine, but we recommend and support the use of a branch of Unreal Engine Called CARLA. This branch was developed for Autonomous vehicle simulation, but can be easily adjusted for non-AV vehicle use. Unreal Engine is the backbone of the simulation software, but with the provide maps, could limit your research and scenarios. To be able to create a new scenario, it is required to use RoadRunner, which is unfortunately a product of Mathworks, but is a great fully fleshed out software, with a lot of capabilities and functions for creating custom maps. Other similar software fall short of the feature sets that RoadRunner does provide, like Truevision.",
-  "source": "@site/docs/BISIMEYER Overview/Software.md",
-  "sourceDirName": "BISIMEYER Overview",
-  "slug": "/BISIMEYER Overview/Software",
-  "permalink": "/BISIMEYER/docs/BISIMEYER Overview/Software",
+  "source": "@site/docs/BISIM Overview/Software.md",
+  "sourceDirName": "BISIM Overview",
+  "slug": "/BISIM Overview/Software",
+  "permalink": "/BISIM/docs/BISIM Overview/Software",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/buw-bicycle-traffic/docs/BISIMEYER Overview/Software.md",
+  "editUrl": "https://github.com/buw-bicycle-traffic/docs/BISIM Overview/Software.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 4,
@@ -10469,11 +10469,11 @@ const metadata = {
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Small Electronics",
-    "permalink": "/BISIMEYER/docs/BISIMEYER Overview/small_electronics"
+    "permalink": "/BISIM/docs/BISIM Overview/small_electronics"
   },
   "next": {
     "title": "Setup and Building of Simulator",
-    "permalink": "/BISIMEYER/docs/category/setup-and-building-of-simulator"
+    "permalink": "/BISIM/docs/category/setup-and-building-of-simulator"
   }
 };
 const assets = {
@@ -10594,16 +10594,16 @@ const frontMatter = {
 };
 const contentTitle = 'Introduction';
 const metadata = {
-  "id": "BISIMEYER Overview/introduction",
+  "id": "BISIM Overview/introduction",
   "title": "Introduction",
-  "description": "Welcome to the BISIMeyer Standard, an open source standard for bicycle simulators. This standard is set out to help create a standard in bicycle simulators. As of now there is no set standard of how to build a bicycle simulator and each bicycle simulator that has been so far created has been different by using different software, equipment, and methodology. These simulators are also typically not well documented, leaving other researchers to wonder how the other created their simulator. It also creates a lot of duplication of work, as researchers have to start from the beginning each time researching how to create a bicycle simulator. This open standard hopes to address these issues by being open source, by having open documentation of how everything was done, by using open source software where possible, and by having reliable, replicable, and accurate methodologies, so that the research done with these bicycle simulators can be validated by anyone interested in the field of bicycles simulators.",
-  "source": "@site/docs/BISIMEYER Overview/introduction.md",
-  "sourceDirName": "BISIMEYER Overview",
-  "slug": "/BISIMEYER Overview/introduction",
-  "permalink": "/BISIMEYER/docs/BISIMEYER Overview/introduction",
+  "description": "Welcome to the BISIM Standard, an open source standard for bicycle simulators. This standard is set out to help create a standard in bicycle simulators. As of now there is no set standard of how to build a bicycle simulator and each bicycle simulator that has been so far created has been different by using different software, equipment, and methodology. These simulators are also typically not well documented, leaving other researchers to wonder how the other created their simulator. It also creates a lot of duplication of work, as researchers have to start from the beginning each time researching how to create a bicycle simulator. This open standard hopes to address these issues by being open source, by having open documentation of how everything was done, by using open source software where possible, and by having reliable, replicable, and accurate methodologies, so that the research done with these bicycle simulators can be validated by anyone interested in the field of bicycles simulators.",
+  "source": "@site/docs/BISIM Overview/introduction.md",
+  "sourceDirName": "BISIM Overview",
+  "slug": "/BISIM Overview/introduction",
+  "permalink": "/BISIM/docs/BISIM Overview/introduction",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/buw-bicycle-traffic/docs/BISIMEYER Overview/introduction.md",
+  "editUrl": "https://github.com/buw-bicycle-traffic/docs/BISIM Overview/introduction.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 1,
@@ -10613,11 +10613,11 @@ const metadata = {
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "BISMEYER Overview",
-    "permalink": "/BISIMEYER/docs/category/bismeyer-overview"
+    "permalink": "/BISIM/docs/category/bismeyer-overview"
   },
   "next": {
     "title": "Equipment Requirements",
-    "permalink": "/BISIMEYER/docs/BISIMEYER Overview/Equipment-requirements"
+    "permalink": "/BISIM/docs/BISIM Overview/Equipment-requirements"
   }
 };
 const assets = {
@@ -10640,7 +10640,7 @@ function _createMdxContent(props) {
       id: "introduction",
       children: "Introduction"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
-      children: "Welcome to the BISIMeyer Standard, an open source standard for bicycle simulators. This standard is set out to help create a standard in bicycle simulators. As of now there is no set standard of how to build a bicycle simulator and each bicycle simulator that has been so far created has been different by using different software, equipment, and methodology. These simulators are also typically not well documented, leaving other researchers to wonder how the other created their simulator. It also creates a lot of duplication of work, as researchers have to start from the beginning each time researching how to create a bicycle simulator. This open standard hopes to address these issues by being open source, by having open documentation of how everything was done, by using open source software where possible, and by having reliable, replicable, and accurate methodologies, so that the research done with these bicycle simulators can be validated by anyone interested in the field of bicycles simulators."
+      children: "Welcome to the BISIM Standard, an open source standard for bicycle simulators. This standard is set out to help create a standard in bicycle simulators. As of now there is no set standard of how to build a bicycle simulator and each bicycle simulator that has been so far created has been different by using different software, equipment, and methodology. These simulators are also typically not well documented, leaving other researchers to wonder how the other created their simulator. It also creates a lot of duplication of work, as researchers have to start from the beginning each time researching how to create a bicycle simulator. This open standard hopes to address these issues by being open source, by having open documentation of how everything was done, by using open source software where possible, and by having reliable, replicable, and accurate methodologies, so that the research done with these bicycle simulators can be validated by anyone interested in the field of bicycles simulators."
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.img, {
         alt: "Bikesim",
@@ -10720,16 +10720,16 @@ const frontMatter = {
 };
 const contentTitle = 'Small Electronics';
 const metadata = {
-  "id": "BISIMEYER Overview/small_electronics",
+  "id": "BISIM Overview/small_electronics",
   "title": "Small Electronics",
   "description": "To help record actions from subjects, modification and small electronics need to be added to the simulator. As stated before these include braking, shifting, steering, but also include heart rate, and power output. Other features which increase realism is the addition of Wind using fans to simulate wind while riding.",
-  "source": "@site/docs/BISIMEYER Overview/small_electronics.md",
-  "sourceDirName": "BISIMEYER Overview",
-  "slug": "/BISIMEYER Overview/small_electronics",
-  "permalink": "/BISIMEYER/docs/BISIMEYER Overview/small_electronics",
+  "source": "@site/docs/BISIM Overview/small_electronics.md",
+  "sourceDirName": "BISIM Overview",
+  "slug": "/BISIM Overview/small_electronics",
+  "permalink": "/BISIM/docs/BISIM Overview/small_electronics",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/buw-bicycle-traffic/docs/BISIMEYER Overview/small_electronics.md",
+  "editUrl": "https://github.com/buw-bicycle-traffic/docs/BISIM Overview/small_electronics.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 3,
@@ -10739,11 +10739,11 @@ const metadata = {
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Equipment Requirements",
-    "permalink": "/BISIMEYER/docs/BISIMEYER Overview/Equipment-requirements"
+    "permalink": "/BISIM/docs/BISIM Overview/Equipment-requirements"
   },
   "next": {
     "title": "Software",
-    "permalink": "/BISIMEYER/docs/BISIMEYER Overview/Software"
+    "permalink": "/BISIM/docs/BISIM Overview/Software"
   }
 };
 const assets = {
@@ -10871,7 +10871,7 @@ const metadata = {
   "source": "@site/docs/Calabration_and_Validation/Calabration.md",
   "sourceDirName": "Calabration_and_Validation",
   "slug": "/Calabration_and_Validation/Calabration",
-  "permalink": "/BISIMEYER/docs/Calabration_and_Validation/Calabration",
+  "permalink": "/BISIM/docs/Calabration_and_Validation/Calabration",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/buw-bicycle-traffic/docs/Calabration_and_Validation/Calabration.md",
@@ -10884,11 +10884,11 @@ const metadata = {
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Calabration and Validation",
-    "permalink": "/BISIMEYER/docs/category/calabration-and-validation"
+    "permalink": "/BISIM/docs/category/calabration-and-validation"
   },
   "next": {
     "title": "Validation of Bicycle Simulator",
-    "permalink": "/BISIMEYER/docs/Calabration_and_Validation/Valadation"
+    "permalink": "/BISIM/docs/Calabration_and_Validation/Valadation"
   }
 };
 const assets = {
@@ -10954,7 +10954,7 @@ const metadata = {
   "source": "@site/docs/Calabration_and_Validation/Valadation.md",
   "sourceDirName": "Calabration_and_Validation",
   "slug": "/Calabration_and_Validation/Valadation",
-  "permalink": "/BISIMEYER/docs/Calabration_and_Validation/Valadation",
+  "permalink": "/BISIM/docs/Calabration_and_Validation/Valadation",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/buw-bicycle-traffic/docs/Calabration_and_Validation/Valadation.md",
@@ -10967,11 +10967,11 @@ const metadata = {
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Calabration",
-    "permalink": "/BISIMEYER/docs/Calabration_and_Validation/Calabration"
+    "permalink": "/BISIM/docs/Calabration_and_Validation/Calabration"
   },
   "next": {
     "title": "Research Methodology",
-    "permalink": "/BISIMEYER/docs/category/research-methodology"
+    "permalink": "/BISIM/docs/category/research-methodology"
   }
 };
 const assets = {
@@ -11029,15 +11029,15 @@ __webpack_require__.r(__webpack_exports__);
 const frontMatter = {
 	sidebar_position: 0
 };
-const contentTitle = 'BISIMEYER Introduction';
+const contentTitle = 'BISIM Introduction';
 const metadata = {
   "id": "IntroductionBISIM",
-  "title": "BISIMEYER Introduction",
-  "description": "Let's discover The BISIMEYER Standard.",
+  "title": "BISIM Introduction",
+  "description": "Let's discover The BISIM Standard.",
   "source": "@site/docs/IntroductionBISIM.md",
   "sourceDirName": ".",
   "slug": "/IntroductionBISIM",
-  "permalink": "/BISIMEYER/docs/IntroductionBISIM",
+  "permalink": "/BISIM/docs/IntroductionBISIM",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/buw-bicycle-traffic/docs/IntroductionBISIM.md",
@@ -11050,7 +11050,7 @@ const metadata = {
   "sidebar": "tutorialSidebar",
   "next": {
     "title": "BISMEYER Overview",
-    "permalink": "/BISIMEYER/docs/category/bismeyer-overview"
+    "permalink": "/BISIM/docs/category/bismeyer-overview"
   }
 };
 const assets = {
@@ -11076,17 +11076,17 @@ function _createMdxContent(props) {
   };
   return (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.Fragment, {
     children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.h1, {
-      id: "bisimeyer-introduction",
-      children: "BISIMEYER Introduction"
+      id: "BISIM-introduction",
+      children: "BISIM Introduction"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(_components.p, {
       children: ["Let's discover ", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.strong, {
-        children: "The BISIMEYER Standard"
+        children: "The BISIM Standard"
       }), "."]
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.h2, {
       id: "overview",
       children: "Overview"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(_components.p, {
-      children: ["Bicycle simulators are becoming more important in the field of bicycle traffic research. In this increase of importance, more research groups are entering the fray of building a bicycle simulator. As each research group jumps into creating these bicycle simulators, they typically start from scratch using pieces from other projects and from other research groups, but in the end creating a one off of a bicycle simulator. This may result in a simulator which is designed for the purposes of said research, but because this simulator is a one-off, it is difficult to replicate and validate. In the hope of creating research, which can be replicated and easily validating, a simulator standard needs to be set. To make this standard more accessible and flexible to standardize it is important that this standard is an open standard, which can be altered and updated to the needs of research, changes in technology, methodology, and techniques. This guide will detail how to create the BiSIMeyer Standard, which is an open standard. With this guide, it will detail everything that will be needed to meet the standard. All software and information is open source, so that this data can be easily assessed. If you have any questions along the way, please feel free to message our research group at chair for Bicycle Traffic at the University of Wuppertal at ", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.a, {
+      children: ["Bicycle simulators are becoming more important in the field of bicycle traffic research. In this increase of importance, more research groups are entering the fray of building a bicycle simulator. As each research group jumps into creating these bicycle simulators, they typically start from scratch using pieces from other projects and from other research groups, but in the end creating a one off of a bicycle simulator. This may result in a simulator which is designed for the purposes of said research, but because this simulator is a one-off, it is difficult to replicate and validate. In the hope of creating research, which can be replicated and easily validating, a simulator standard needs to be set. To make this standard more accessible and flexible to standardize it is important that this standard is an open standard, which can be altered and updated to the needs of research, changes in technology, methodology, and techniques. This guide will detail how to create the BISIM Standard, which is an open standard. With this guide, it will detail everything that will be needed to meet the standard. All software and information is open source, so that this data can be easily assessed. If you have any questions along the way, please feel free to message our research group at chair for Bicycle Traffic at the University of Wuppertal at ", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.a, {
         href: "mailto:stockman@uni-wuppertal.de",
         children: "XXX@uni-wuppertal.de"
       }), "."]
@@ -11138,7 +11138,7 @@ const metadata = {
   "source": "@site/docs/Reseach_Methodology/Simulator_Training.md",
   "sourceDirName": "Reseach_Methodology",
   "slug": "/Reseach_Methodology/Simulator_Training",
-  "permalink": "/BISIMEYER/docs/Reseach_Methodology/Simulator_Training",
+  "permalink": "/BISIM/docs/Reseach_Methodology/Simulator_Training",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/buw-bicycle-traffic/docs/Reseach_Methodology/Simulator_Training.md",
@@ -11151,7 +11151,7 @@ const metadata = {
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Measured Inputs",
-    "permalink": "/BISIMEYER/docs/Reseach_Methodology/measured_inputs"
+    "permalink": "/BISIM/docs/Reseach_Methodology/measured_inputs"
   }
 };
 const assets = {
@@ -11217,7 +11217,7 @@ const metadata = {
   "source": "@site/docs/Reseach_Methodology/ethics.md",
   "sourceDirName": "Reseach_Methodology",
   "slug": "/Reseach_Methodology/ethics",
-  "permalink": "/BISIMEYER/docs/Reseach_Methodology/ethics",
+  "permalink": "/BISIM/docs/Reseach_Methodology/ethics",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/buw-bicycle-traffic/docs/Reseach_Methodology/ethics.md",
@@ -11230,11 +11230,11 @@ const metadata = {
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Research Methodology",
-    "permalink": "/BISIMEYER/docs/category/research-methodology"
+    "permalink": "/BISIM/docs/category/research-methodology"
   },
   "next": {
     "title": "Measured Inputs",
-    "permalink": "/BISIMEYER/docs/Reseach_Methodology/measured_inputs"
+    "permalink": "/BISIM/docs/Reseach_Methodology/measured_inputs"
   }
 };
 const assets = {
@@ -11300,7 +11300,7 @@ const metadata = {
   "source": "@site/docs/Reseach_Methodology/measured_inputs.md",
   "sourceDirName": "Reseach_Methodology",
   "slug": "/Reseach_Methodology/measured_inputs",
-  "permalink": "/BISIMEYER/docs/Reseach_Methodology/measured_inputs",
+  "permalink": "/BISIM/docs/Reseach_Methodology/measured_inputs",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/buw-bicycle-traffic/docs/Reseach_Methodology/measured_inputs.md",
@@ -11313,11 +11313,11 @@ const metadata = {
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Ethics",
-    "permalink": "/BISIMEYER/docs/Reseach_Methodology/ethics"
+    "permalink": "/BISIM/docs/Reseach_Methodology/ethics"
   },
   "next": {
     "title": "Simulator Training",
-    "permalink": "/BISIMEYER/docs/Reseach_Methodology/Simulator_Training"
+    "permalink": "/BISIM/docs/Reseach_Methodology/Simulator_Training"
   }
 };
 const assets = {
@@ -11383,7 +11383,7 @@ const metadata = {
   "source": "@site/docs/Setup_and_Building_of_Simulator/Computer_Setup.md",
   "sourceDirName": "Setup_and_Building_of_Simulator",
   "slug": "/Setup_and_Building_of_Simulator/Computer_Setup",
-  "permalink": "/BISIMEYER/docs/Setup_and_Building_of_Simulator/Computer_Setup",
+  "permalink": "/BISIM/docs/Setup_and_Building_of_Simulator/Computer_Setup",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/buw-bicycle-traffic/docs/Setup_and_Building_of_Simulator/Computer_Setup.md",
@@ -11396,11 +11396,11 @@ const metadata = {
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Setup and Building of Simulator",
-    "permalink": "/BISIMEYER/docs/category/setup-and-building-of-simulator"
+    "permalink": "/BISIM/docs/category/setup-and-building-of-simulator"
   },
   "next": {
     "title": "Simulator Setup",
-    "permalink": "/BISIMEYER/docs/Setup_and_Building_of_Simulator/Simulator_Setup"
+    "permalink": "/BISIM/docs/Setup_and_Building_of_Simulator/Simulator_Setup"
   }
 };
 const assets = {
@@ -11948,7 +11948,7 @@ const metadata = {
   "source": "@site/docs/Setup_and_Building_of_Simulator/Setup_of_Scenarios.md",
   "sourceDirName": "Setup_and_Building_of_Simulator",
   "slug": "/Setup_and_Building_of_Simulator/Setup_of_Scenarios",
-  "permalink": "/BISIMEYER/docs/Setup_and_Building_of_Simulator/Setup_of_Scenarios",
+  "permalink": "/BISIM/docs/Setup_and_Building_of_Simulator/Setup_of_Scenarios",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/buw-bicycle-traffic/docs/Setup_and_Building_of_Simulator/Setup_of_Scenarios.md",
@@ -11961,11 +11961,11 @@ const metadata = {
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Simulator Setup",
-    "permalink": "/BISIMEYER/docs/Setup_and_Building_of_Simulator/Simulator_Setup"
+    "permalink": "/BISIM/docs/Setup_and_Building_of_Simulator/Simulator_Setup"
   },
   "next": {
     "title": "Calabration and Validation",
-    "permalink": "/BISIMEYER/docs/category/calabration-and-validation"
+    "permalink": "/BISIM/docs/category/calabration-and-validation"
   }
 };
 const assets = {
@@ -12906,7 +12906,7 @@ const metadata = {
   "source": "@site/docs/Setup_and_Building_of_Simulator/Simulator_Setup.md",
   "sourceDirName": "Setup_and_Building_of_Simulator",
   "slug": "/Setup_and_Building_of_Simulator/Simulator_Setup",
-  "permalink": "/BISIMEYER/docs/Setup_and_Building_of_Simulator/Simulator_Setup",
+  "permalink": "/BISIM/docs/Setup_and_Building_of_Simulator/Simulator_Setup",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/buw-bicycle-traffic/docs/Setup_and_Building_of_Simulator/Simulator_Setup.md",
@@ -12919,11 +12919,11 @@ const metadata = {
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Computer Setup",
-    "permalink": "/BISIMEYER/docs/Setup_and_Building_of_Simulator/Computer_Setup"
+    "permalink": "/BISIM/docs/Setup_and_Building_of_Simulator/Computer_Setup"
   },
   "next": {
     "title": "Setup of Scenarios",
-    "permalink": "/BISIMEYER/docs/Setup_and_Building_of_Simulator/Setup_of_Scenarios"
+    "permalink": "/BISIM/docs/Setup_and_Building_of_Simulator/Setup_of_Scenarios"
   }
 };
 const assets = {
@@ -12984,7 +12984,7 @@ const frontMatter = {
 	authors: [
 		{
 			name: 'Jack Stockman',
-			title: 'Co-creator of BISIMEYER',
+			title: 'Co-creator of BISIM',
 			url: 'https://github.com/JoelMarcey',
 			image_url: 'https://github.com/jackmad101.png'
 		}
@@ -12995,16 +12995,16 @@ const frontMatter = {
 };
 const contentTitle = undefined;
 const metadata = {
-  "permalink": "/BISIMEYER/blog/greetings",
+  "permalink": "/BISIM/blog/greetings",
   "editUrl": "https://github.com/buw-bicycle-traffic/blog/2024-05-29-greetings.md.md",
   "source": "@site/blog/2024-05-29-greetings.md.md",
   "title": "Greetings!",
-  "description": "Congratulations and welcome to the BISIMEYER Standard!",
+  "description": "Congratulations and welcome to the BISIM Standard!",
   "date": "2024-05-29T00:00:00.000Z",
   "tags": [
     {
       "label": "greetings",
-      "permalink": "/BISIMEYER/blog/tags/greetings"
+      "permalink": "/BISIM/blog/tags/greetings"
     }
   ],
   "readingTime": 0.035,
@@ -13012,7 +13012,7 @@ const metadata = {
   "authors": [
     {
       "name": "Jack Stockman",
-      "title": "Co-creator of BISIMEYER",
+      "title": "Co-creator of BISIM",
       "url": "https://github.com/JoelMarcey",
       "image_url": "https://github.com/jackmad101.png",
       "imageURL": "https://github.com/jackmad101.png"
@@ -13024,7 +13024,7 @@ const metadata = {
     "authors": [
       {
         "name": "Jack Stockman",
-        "title": "Co-creator of BISIMEYER",
+        "title": "Co-creator of BISIM",
         "url": "https://github.com/JoelMarcey",
         "image_url": "https://github.com/jackmad101.png",
         "imageURL": "https://github.com/jackmad101.png"
@@ -13050,7 +13050,7 @@ function _createMdxContent(props) {
     ...props.components
   };
   return (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
-    children: "Congratulations and welcome to the BISIMEYER Standard!"
+    children: "Congratulations and welcome to the BISIM Standard!"
   });
 }
 function MDXContent(props = {}) {
@@ -13093,7 +13093,7 @@ const frontMatter = {
 	authors: [
 		{
 			name: 'Jack Stockman',
-			title: 'Co-creator of BISIMEYER',
+			title: 'Co-creator of BISIM',
 			url: 'https://github.com/JoelMarcey',
 			image_url: 'https://github.com/jackmad101.png'
 		}
@@ -13104,16 +13104,16 @@ const frontMatter = {
 };
 const contentTitle = undefined;
 const metadata = {
-  "permalink": "/BISIMEYER/blog/greetings",
+  "permalink": "/BISIM/blog/greetings",
   "editUrl": "https://github.com/buw-bicycle-traffic/blog/2024-05-29-greetings.md.md",
   "source": "@site/blog/2024-05-29-greetings.md.md",
   "title": "Greetings!",
-  "description": "Congratulations and welcome to the BISIMEYER Standard!",
+  "description": "Congratulations and welcome to the BISIM Standard!",
   "date": "2024-05-29T00:00:00.000Z",
   "tags": [
     {
       "label": "greetings",
-      "permalink": "/BISIMEYER/blog/tags/greetings"
+      "permalink": "/BISIM/blog/tags/greetings"
     }
   ],
   "readingTime": 0.035,
@@ -13121,7 +13121,7 @@ const metadata = {
   "authors": [
     {
       "name": "Jack Stockman",
-      "title": "Co-creator of BISIMEYER",
+      "title": "Co-creator of BISIM",
       "url": "https://github.com/JoelMarcey",
       "image_url": "https://github.com/jackmad101.png",
       "imageURL": "https://github.com/jackmad101.png"
@@ -13133,7 +13133,7 @@ const metadata = {
     "authors": [
       {
         "name": "Jack Stockman",
-        "title": "Co-creator of BISIMEYER",
+        "title": "Co-creator of BISIM",
         "url": "https://github.com/JoelMarcey",
         "image_url": "https://github.com/jackmad101.png",
         "imageURL": "https://github.com/jackmad101.png"
@@ -13159,7 +13159,7 @@ function _createMdxContent(props) {
     ...props.components
   };
   return (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
-    children: "Congratulations and welcome to the BISIMEYER Standard!"
+    children: "Congratulations and welcome to the BISIM Standard!"
   });
 }
 function MDXContent(props = {}) {
@@ -15143,13 +15143,13 @@ __webpack_require__.r(__webpack_exports__);
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({
-  "title": "BISIMEYER Standard",
+  "title": "BISIM Standard",
   "tagline": "Bicycle Simulator Standard",
   "favicon": "img/BISMEYER",
   "url": "https://jackmad101.github.io",
-  "baseUrl": "/BISIMEYER/",
+  "baseUrl": "/BISIM/",
   "organizationName": "jackmad101",
-  "projectName": "BISIMEYER",
+  "projectName": "BISIM",
   "onBrokenLinks": "warn",
   "onBrokenMarkdownLinks": "warn",
   "deploymentBranch": "deployment",
@@ -15182,10 +15182,10 @@ __webpack_require__.r(__webpack_exports__);
   "themeConfig": {
     "image": "img/docusaurus-social-card.jpg",
     "navbar": {
-      "title": "BISIMEYER Standard",
+      "title": "BISIM Standard",
       "logo": {
         "alt": "My Site Logo",
-        "src": "img/BISIMEYER.PNG"
+        "src": "img/BISIM.PNG"
       },
       "items": [
         {
@@ -15250,7 +15250,7 @@ __webpack_require__.r(__webpack_exports__);
           ]
         }
       ],
-      "copyright": "Copyright © 2024 BISIMEYER Project of Chair of Bicycle Traffic at the University of Wuppertal, Built with Docusaurus."
+      "copyright": "Copyright © 2024 BISIM Project of Chair of Bicycle Traffic at the University of Wuppertal, Built with Docusaurus."
     },
     "prism": {
       "theme": {
@@ -18651,7 +18651,7 @@ module.exports = /*#__PURE__*/JSON.parse('{"name":"docusaurus-plugin-content-blo
 /***/ ((module) => {
 
 "use strict";
-module.exports = /*#__PURE__*/JSON.parse('{"title":"Recent posts","items":[{"title":"Greetings!","permalink":"/BISIMEYER/blog/greetings","unlisted":false}]}');
+module.exports = /*#__PURE__*/JSON.parse('{"title":"Recent posts","items":[{"title":"Greetings!","permalink":"/BISIM/blog/greetings","unlisted":false}]}');
 
 /***/ }),
 
@@ -18659,7 +18659,7 @@ module.exports = /*#__PURE__*/JSON.parse('{"title":"Recent posts","items":[{"tit
 /***/ ((module) => {
 
 "use strict";
-module.exports = /*#__PURE__*/JSON.parse('{"blogBasePath":"/BISIMEYER/blog","blogTitle":"Blog"}');
+module.exports = /*#__PURE__*/JSON.parse('{"blogBasePath":"/BISIM/blog","blogTitle":"Blog"}');
 
 /***/ }),
 
@@ -18667,7 +18667,7 @@ module.exports = /*#__PURE__*/JSON.parse('{"blogBasePath":"/BISIMEYER/blog","blo
 /***/ ((module) => {
 
 "use strict";
-module.exports = /*#__PURE__*/JSON.parse('{"metadata":{"permalink":"/BISIMEYER/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}');
+module.exports = /*#__PURE__*/JSON.parse('{"metadata":{"permalink":"/BISIM/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}');
 
 /***/ }),
 
@@ -18675,7 +18675,7 @@ module.exports = /*#__PURE__*/JSON.parse('{"metadata":{"permalink":"/BISIMEYER/b
 /***/ ((module) => {
 
 "use strict";
-module.exports = /*#__PURE__*/JSON.parse('{"archive":{"blogPosts":[{"id":"greetings","metadata":{"permalink":"/BISIMEYER/blog/greetings","editUrl":"https://github.com/buw-bicycle-traffic/blog/2024-05-29-greetings.md.md","source":"@site/blog/2024-05-29-greetings.md.md","title":"Greetings!","description":"Congratulations and welcome to the BISIMEYER Standard!","date":"2024-05-29T00:00:00.000Z","tags":[{"label":"greetings","permalink":"/BISIMEYER/blog/tags/greetings"}],"readingTime":0.035,"hasTruncateMarker":false,"authors":[{"name":"Jack Stockman","title":"Co-creator of BISIMEYER","url":"https://github.com/JoelMarcey","image_url":"https://github.com/jackmad101.png","imageURL":"https://github.com/jackmad101.png"}],"frontMatter":{"slug":"greetings","title":"Greetings!","authors":[{"name":"Jack Stockman","title":"Co-creator of BISIMEYER","url":"https://github.com/JoelMarcey","image_url":"https://github.com/jackmad101.png","imageURL":"https://github.com/jackmad101.png"}],"tags":["greetings"]},"unlisted":false},"content":"Congratulations and welcome to the BISIMEYER Standard!"}]}}');
+module.exports = /*#__PURE__*/JSON.parse('{"archive":{"blogPosts":[{"id":"greetings","metadata":{"permalink":"/BISIM/blog/greetings","editUrl":"https://github.com/buw-bicycle-traffic/blog/2024-05-29-greetings.md.md","source":"@site/blog/2024-05-29-greetings.md.md","title":"Greetings!","description":"Congratulations and welcome to the BISIM Standard!","date":"2024-05-29T00:00:00.000Z","tags":[{"label":"greetings","permalink":"/BISIM/blog/tags/greetings"}],"readingTime":0.035,"hasTruncateMarker":false,"authors":[{"name":"Jack Stockman","title":"Co-creator of BISIM","url":"https://github.com/JoelMarcey","image_url":"https://github.com/jackmad101.png","imageURL":"https://github.com/jackmad101.png"}],"frontMatter":{"slug":"greetings","title":"Greetings!","authors":[{"name":"Jack Stockman","title":"Co-creator of BISIM","url":"https://github.com/JoelMarcey","image_url":"https://github.com/jackmad101.png","imageURL":"https://github.com/jackmad101.png"}],"tags":["greetings"]},"unlisted":false},"content":"Congratulations and welcome to the BISIM Standard!"}]}}');
 
 /***/ }),
 
@@ -18683,7 +18683,7 @@ module.exports = /*#__PURE__*/JSON.parse('{"archive":{"blogPosts":[{"id":"greeti
 /***/ ((module) => {
 
 "use strict";
-module.exports = /*#__PURE__*/JSON.parse('{"tags":[{"label":"greetings","permalink":"/BISIMEYER/blog/tags/greetings","count":1}]}');
+module.exports = /*#__PURE__*/JSON.parse('{"tags":[{"label":"greetings","permalink":"/BISIM/blog/tags/greetings","count":1}]}');
 
 /***/ }),
 
@@ -18691,7 +18691,7 @@ module.exports = /*#__PURE__*/JSON.parse('{"tags":[{"label":"greetings","permali
 /***/ ((module) => {
 
 "use strict";
-module.exports = /*#__PURE__*/JSON.parse('{"tag":{"label":"greetings","permalink":"/BISIMEYER/blog/tags/greetings","allTagsPath":"/BISIMEYER/blog/tags","count":1,"unlisted":false},"listMetadata":{"permalink":"/BISIMEYER/blog/tags/greetings","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}');
+module.exports = /*#__PURE__*/JSON.parse('{"tag":{"label":"greetings","permalink":"/BISIM/blog/tags/greetings","allTagsPath":"/BISIM/blog/tags","count":1,"unlisted":false},"listMetadata":{"permalink":"/BISIM/blog/tags/greetings","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}');
 
 /***/ }),
 
@@ -18707,7 +18707,7 @@ module.exports = /*#__PURE__*/JSON.parse('{"name":"docusaurus-plugin-content-doc
 /***/ ((module) => {
 
 "use strict";
-module.exports = /*#__PURE__*/JSON.parse('{"version":{"pluginId":"default","version":"current","label":"Next","banner":null,"badge":false,"noIndex":false,"className":"docs-version-current","isLast":true,"docsSidebars":{"tutorialSidebar":[{"type":"link","label":"BISIMEYER Introduction","href":"/BISIMEYER/docs/IntroductionBISIM","docId":"IntroductionBISIM","unlisted":false},{"type":"category","label":"BISMEYER Overview","collapsible":true,"collapsed":true,"items":[{"type":"link","label":"Introduction","href":"/BISIMEYER/docs/BISIMEYER Overview/introduction","docId":"BISIMEYER Overview/introduction","unlisted":false},{"type":"link","label":"Equipment Requirements","href":"/BISIMEYER/docs/BISIMEYER Overview/Equipment-requirements","docId":"BISIMEYER Overview/Equipment-requirements","unlisted":false},{"type":"link","label":"Small Electronics","href":"/BISIMEYER/docs/BISIMEYER Overview/small_electronics","docId":"BISIMEYER Overview/small_electronics","unlisted":false},{"type":"link","label":"Software","href":"/BISIMEYER/docs/BISIMEYER Overview/Software","docId":"BISIMEYER Overview/Software","unlisted":false}],"href":"/BISIMEYER/docs/category/bismeyer-overview"},{"type":"category","label":"Setup and Building of Simulator","collapsible":true,"collapsed":true,"items":[{"type":"link","label":"Computer Setup","href":"/BISIMEYER/docs/Setup_and_Building_of_Simulator/Computer_Setup","docId":"Setup_and_Building_of_Simulator/Computer_Setup","unlisted":false},{"type":"link","label":"Simulator Setup","href":"/BISIMEYER/docs/Setup_and_Building_of_Simulator/Simulator_Setup","docId":"Setup_and_Building_of_Simulator/Simulator_Setup","unlisted":false},{"type":"link","label":"Setup of Scenarios","href":"/BISIMEYER/docs/Setup_and_Building_of_Simulator/Setup_of_Scenarios","docId":"Setup_and_Building_of_Simulator/Setup_of_Scenarios","unlisted":false}],"href":"/BISIMEYER/docs/category/setup-and-building-of-simulator"},{"type":"category","label":"Calabration and Validation","collapsible":true,"collapsed":true,"items":[{"type":"link","label":"Calabration","href":"/BISIMEYER/docs/Calabration_and_Validation/Calabration","docId":"Calabration_and_Validation/Calabration","unlisted":false},{"type":"link","label":"Validation of Bicycle Simulator","href":"/BISIMEYER/docs/Calabration_and_Validation/Valadation","docId":"Calabration_and_Validation/Valadation","unlisted":false}],"href":"/BISIMEYER/docs/category/calabration-and-validation"},{"type":"category","label":"Research Methodology","collapsible":true,"collapsed":true,"items":[{"type":"link","label":"Ethics","href":"/BISIMEYER/docs/Reseach_Methodology/ethics","docId":"Reseach_Methodology/ethics","unlisted":false},{"type":"link","label":"Measured Inputs","href":"/BISIMEYER/docs/Reseach_Methodology/measured_inputs","docId":"Reseach_Methodology/measured_inputs","unlisted":false},{"type":"link","label":"Simulator Training","href":"/BISIMEYER/docs/Reseach_Methodology/Simulator_Training","docId":"Reseach_Methodology/Simulator_Training","unlisted":false}],"href":"/BISIMEYER/docs/category/research-methodology"}]},"docs":{"BISIMEYER Overview/Equipment-requirements":{"id":"BISIMEYER Overview/Equipment-requirements","title":"Equipment Requirements","description":"XXXXX","sidebar":"tutorialSidebar"},"BISIMEYER Overview/introduction":{"id":"BISIMEYER Overview/introduction","title":"Introduction","description":"Welcome to the BISIMeyer Standard, an open source standard for bicycle simulators. This standard is set out to help create a standard in bicycle simulators. As of now there is no set standard of how to build a bicycle simulator and each bicycle simulator that has been so far created has been different by using different software, equipment, and methodology. These simulators are also typically not well documented, leaving other researchers to wonder how the other created their simulator. It also creates a lot of duplication of work, as researchers have to start from the beginning each time researching how to create a bicycle simulator. This open standard hopes to address these issues by being open source, by having open documentation of how everything was done, by using open source software where possible, and by having reliable, replicable, and accurate methodologies, so that the research done with these bicycle simulators can be validated by anyone interested in the field of bicycles simulators.","sidebar":"tutorialSidebar"},"BISIMEYER Overview/small_electronics":{"id":"BISIMEYER Overview/small_electronics","title":"Small Electronics","description":"To help record actions from subjects, modification and small electronics need to be added to the simulator. As stated before these include braking, shifting, steering, but also include heart rate, and power output. Other features which increase realism is the addition of Wind using fans to simulate wind while riding.","sidebar":"tutorialSidebar"},"BISIMEYER Overview/Software":{"id":"BISIMEYER Overview/Software","title":"Software","description":"Software is the backbone of the bicycle simulator. Of course, basic simulators may not have any display or just record basic outputs, but with today technology we can create virtual environments and create virtual scenarios. There are two primary pieces of software which are used in virtualization and the creation of the virtual environment and that are Unity and Unreal Engine. Both have been used in many simulation projects. In this case we recommend Unreal Engine, as there has been some more development from other research groups to develop packages which are useful in developing a simulator and managing things like traffic. There are many versions of Unreal Engine, but we recommend and support the use of a branch of Unreal Engine Called CARLA. This branch was developed for Autonomous vehicle simulation, but can be easily adjusted for non-AV vehicle use. Unreal Engine is the backbone of the simulation software, but with the provide maps, could limit your research and scenarios. To be able to create a new scenario, it is required to use RoadRunner, which is unfortunately a product of Mathworks, but is a great fully fleshed out software, with a lot of capabilities and functions for creating custom maps. Other similar software fall short of the feature sets that RoadRunner does provide, like Truevision.","sidebar":"tutorialSidebar"},"Calabration_and_Validation/Calabration":{"id":"Calabration_and_Validation/Calabration","title":"Calabration","description":"","sidebar":"tutorialSidebar"},"Calabration_and_Validation/Valadation":{"id":"Calabration_and_Validation/Valadation","title":"Validation of Bicycle Simulator","description":"","sidebar":"tutorialSidebar"},"IntroductionBISIM":{"id":"IntroductionBISIM","title":"BISIMEYER Introduction","description":"Let\'s discover The BISIMEYER Standard.","sidebar":"tutorialSidebar"},"Reseach_Methodology/ethics":{"id":"Reseach_Methodology/ethics","title":"Ethics","description":"","sidebar":"tutorialSidebar"},"Reseach_Methodology/measured_inputs":{"id":"Reseach_Methodology/measured_inputs","title":"Measured Inputs","description":"","sidebar":"tutorialSidebar"},"Reseach_Methodology/Simulator_Training":{"id":"Reseach_Methodology/Simulator_Training","title":"Simulator Training","description":"","sidebar":"tutorialSidebar"},"Setup_and_Building_of_Simulator/Computer_Setup":{"id":"Setup_and_Building_of_Simulator/Computer_Setup","title":"Computer Setup","description":"Software is the backbone of the bicycle simulator. Of course, basic simulators may not have any display or just record basic outputs, but with today technology we can create virtual environments and create virtual scenarios. There are two primary pieces of software which are used in virtualization and the creation of the virtual environment and that are Unity and Unreal Engine. Both have been used in many simulation projects. In this case we recommend Unreal Engine, as there has been some more development from other research groups to develop packages which are useful in developing a simulator and managing things like traffic. There are many versions of Unreal Engine, but we recommend and support the use of a branch of Unreal Engine Called CARLA. This branch was developed for Autonomous vehicle simulation, but can be easily adjusted for non-AV vehicle use. Unreal Engine is the backbone of the simulation software, but with the provide maps, could limit your research and scenarios. To be able to create a new scenario, it is required to use RoadRunner, which is unfortunately a product of Mathworks, but is a great fully fleshed out software, with a lot of capabilities and functions for creating custom maps. Other similar software fall short of the feature sets that RoadRunner does provide, like Truevision.","sidebar":"tutorialSidebar"},"Setup_and_Building_of_Simulator/Setup_of_Scenarios":{"id":"Setup_and_Building_of_Simulator/Setup_of_Scenarios","title":"Setup of Scenarios","description":"In this chapter, we will talk about how to set up your own custom scenario of a real world location.","sidebar":"tutorialSidebar"},"Setup_and_Building_of_Simulator/Simulator_Setup":{"id":"Setup_and_Building_of_Simulator/Simulator_Setup","title":"Simulator Setup","description":"","sidebar":"tutorialSidebar"}}}}');
+module.exports = /*#__PURE__*/JSON.parse('{"version":{"pluginId":"default","version":"current","label":"Next","banner":null,"badge":false,"noIndex":false,"className":"docs-version-current","isLast":true,"docsSidebars":{"tutorialSidebar":[{"type":"link","label":"BISIM Introduction","href":"/BISIM/docs/IntroductionBISIM","docId":"IntroductionBISIM","unlisted":false},{"type":"category","label":"BISMEYER Overview","collapsible":true,"collapsed":true,"items":[{"type":"link","label":"Introduction","href":"/BISIM/docs/BISIM Overview/introduction","docId":"BISIM Overview/introduction","unlisted":false},{"type":"link","label":"Equipment Requirements","href":"/BISIM/docs/BISIM Overview/Equipment-requirements","docId":"BISIM Overview/Equipment-requirements","unlisted":false},{"type":"link","label":"Small Electronics","href":"/BISIM/docs/BISIM Overview/small_electronics","docId":"BISIM Overview/small_electronics","unlisted":false},{"type":"link","label":"Software","href":"/BISIM/docs/BISIM Overview/Software","docId":"BISIM Overview/Software","unlisted":false}],"href":"/BISIM/docs/category/bismeyer-overview"},{"type":"category","label":"Setup and Building of Simulator","collapsible":true,"collapsed":true,"items":[{"type":"link","label":"Computer Setup","href":"/BISIM/docs/Setup_and_Building_of_Simulator/Computer_Setup","docId":"Setup_and_Building_of_Simulator/Computer_Setup","unlisted":false},{"type":"link","label":"Simulator Setup","href":"/BISIM/docs/Setup_and_Building_of_Simulator/Simulator_Setup","docId":"Setup_and_Building_of_Simulator/Simulator_Setup","unlisted":false},{"type":"link","label":"Setup of Scenarios","href":"/BISIM/docs/Setup_and_Building_of_Simulator/Setup_of_Scenarios","docId":"Setup_and_Building_of_Simulator/Setup_of_Scenarios","unlisted":false}],"href":"/BISIM/docs/category/setup-and-building-of-simulator"},{"type":"category","label":"Calabration and Validation","collapsible":true,"collapsed":true,"items":[{"type":"link","label":"Calabration","href":"/BISIM/docs/Calabration_and_Validation/Calabration","docId":"Calabration_and_Validation/Calabration","unlisted":false},{"type":"link","label":"Validation of Bicycle Simulator","href":"/BISIM/docs/Calabration_and_Validation/Valadation","docId":"Calabration_and_Validation/Valadation","unlisted":false}],"href":"/BISIM/docs/category/calabration-and-validation"},{"type":"category","label":"Research Methodology","collapsible":true,"collapsed":true,"items":[{"type":"link","label":"Ethics","href":"/BISIM/docs/Reseach_Methodology/ethics","docId":"Reseach_Methodology/ethics","unlisted":false},{"type":"link","label":"Measured Inputs","href":"/BISIM/docs/Reseach_Methodology/measured_inputs","docId":"Reseach_Methodology/measured_inputs","unlisted":false},{"type":"link","label":"Simulator Training","href":"/BISIM/docs/Reseach_Methodology/Simulator_Training","docId":"Reseach_Methodology/Simulator_Training","unlisted":false}],"href":"/BISIM/docs/category/research-methodology"}]},"docs":{"BISIM Overview/Equipment-requirements":{"id":"BISIM Overview/Equipment-requirements","title":"Equipment Requirements","description":"XXXXX","sidebar":"tutorialSidebar"},"BISIM Overview/introduction":{"id":"BISIM Overview/introduction","title":"Introduction","description":"Welcome to the BISIM Standard, an open source standard for bicycle simulators. This standard is set out to help create a standard in bicycle simulators. As of now there is no set standard of how to build a bicycle simulator and each bicycle simulator that has been so far created has been different by using different software, equipment, and methodology. These simulators are also typically not well documented, leaving other researchers to wonder how the other created their simulator. It also creates a lot of duplication of work, as researchers have to start from the beginning each time researching how to create a bicycle simulator. This open standard hopes to address these issues by being open source, by having open documentation of how everything was done, by using open source software where possible, and by having reliable, replicable, and accurate methodologies, so that the research done with these bicycle simulators can be validated by anyone interested in the field of bicycles simulators.","sidebar":"tutorialSidebar"},"BISIM Overview/small_electronics":{"id":"BISIM Overview/small_electronics","title":"Small Electronics","description":"To help record actions from subjects, modification and small electronics need to be added to the simulator. As stated before these include braking, shifting, steering, but also include heart rate, and power output. Other features which increase realism is the addition of Wind using fans to simulate wind while riding.","sidebar":"tutorialSidebar"},"BISIM Overview/Software":{"id":"BISIM Overview/Software","title":"Software","description":"Software is the backbone of the bicycle simulator. Of course, basic simulators may not have any display or just record basic outputs, but with today technology we can create virtual environments and create virtual scenarios. There are two primary pieces of software which are used in virtualization and the creation of the virtual environment and that are Unity and Unreal Engine. Both have been used in many simulation projects. In this case we recommend Unreal Engine, as there has been some more development from other research groups to develop packages which are useful in developing a simulator and managing things like traffic. There are many versions of Unreal Engine, but we recommend and support the use of a branch of Unreal Engine Called CARLA. This branch was developed for Autonomous vehicle simulation, but can be easily adjusted for non-AV vehicle use. Unreal Engine is the backbone of the simulation software, but with the provide maps, could limit your research and scenarios. To be able to create a new scenario, it is required to use RoadRunner, which is unfortunately a product of Mathworks, but is a great fully fleshed out software, with a lot of capabilities and functions for creating custom maps. Other similar software fall short of the feature sets that RoadRunner does provide, like Truevision.","sidebar":"tutorialSidebar"},"Calabration_and_Validation/Calabration":{"id":"Calabration_and_Validation/Calabration","title":"Calabration","description":"","sidebar":"tutorialSidebar"},"Calabration_and_Validation/Valadation":{"id":"Calabration_and_Validation/Valadation","title":"Validation of Bicycle Simulator","description":"","sidebar":"tutorialSidebar"},"IntroductionBISIM":{"id":"IntroductionBISIM","title":"BISIM Introduction","description":"Let\'s discover The BISIM Standard.","sidebar":"tutorialSidebar"},"Reseach_Methodology/ethics":{"id":"Reseach_Methodology/ethics","title":"Ethics","description":"","sidebar":"tutorialSidebar"},"Reseach_Methodology/measured_inputs":{"id":"Reseach_Methodology/measured_inputs","title":"Measured Inputs","description":"","sidebar":"tutorialSidebar"},"Reseach_Methodology/Simulator_Training":{"id":"Reseach_Methodology/Simulator_Training","title":"Simulator Training","description":"","sidebar":"tutorialSidebar"},"Setup_and_Building_of_Simulator/Computer_Setup":{"id":"Setup_and_Building_of_Simulator/Computer_Setup","title":"Computer Setup","description":"Software is the backbone of the bicycle simulator. Of course, basic simulators may not have any display or just record basic outputs, but with today technology we can create virtual environments and create virtual scenarios. There are two primary pieces of software which are used in virtualization and the creation of the virtual environment and that are Unity and Unreal Engine. Both have been used in many simulation projects. In this case we recommend Unreal Engine, as there has been some more development from other research groups to develop packages which are useful in developing a simulator and managing things like traffic. There are many versions of Unreal Engine, but we recommend and support the use of a branch of Unreal Engine Called CARLA. This branch was developed for Autonomous vehicle simulation, but can be easily adjusted for non-AV vehicle use. Unreal Engine is the backbone of the simulation software, but with the provide maps, could limit your research and scenarios. To be able to create a new scenario, it is required to use RoadRunner, which is unfortunately a product of Mathworks, but is a great fully fleshed out software, with a lot of capabilities and functions for creating custom maps. Other similar software fall short of the feature sets that RoadRunner does provide, like Truevision.","sidebar":"tutorialSidebar"},"Setup_and_Building_of_Simulator/Setup_of_Scenarios":{"id":"Setup_and_Building_of_Simulator/Setup_of_Scenarios","title":"Setup of Scenarios","description":"In this chapter, we will talk about how to set up your own custom scenario of a real world location.","sidebar":"tutorialSidebar"},"Setup_and_Building_of_Simulator/Simulator_Setup":{"id":"Setup_and_Building_of_Simulator/Simulator_Setup","title":"Simulator Setup","description":"","sidebar":"tutorialSidebar"}}}}');
 
 /***/ }),
 
@@ -18715,7 +18715,7 @@ module.exports = /*#__PURE__*/JSON.parse('{"version":{"pluginId":"default","vers
 /***/ ((module) => {
 
 "use strict";
-module.exports = /*#__PURE__*/JSON.parse('{"categoryGeneratedIndex":{"title":"BISMEYER Overview","description":"Genearl Overview of BISIMEYER Standard.","slug":"/category/bismeyer-overview","permalink":"/BISIMEYER/docs/category/bismeyer-overview","sidebar":"tutorialSidebar","navigation":{"previous":{"title":"BISIMEYER Introduction","permalink":"/BISIMEYER/docs/IntroductionBISIM"},"next":{"title":"Introduction","permalink":"/BISIMEYER/docs/BISIMEYER Overview/introduction"}}}}');
+module.exports = /*#__PURE__*/JSON.parse('{"categoryGeneratedIndex":{"title":"BISMEYER Overview","description":"Genearl Overview of BISIM Standard.","slug":"/category/bismeyer-overview","permalink":"/BISIM/docs/category/bismeyer-overview","sidebar":"tutorialSidebar","navigation":{"previous":{"title":"BISIM Introduction","permalink":"/BISIM/docs/IntroductionBISIM"},"next":{"title":"Introduction","permalink":"/BISIM/docs/BISIM Overview/introduction"}}}}');
 
 /***/ }),
 
@@ -18723,7 +18723,7 @@ module.exports = /*#__PURE__*/JSON.parse('{"categoryGeneratedIndex":{"title":"BI
 /***/ ((module) => {
 
 "use strict";
-module.exports = /*#__PURE__*/JSON.parse('{"categoryGeneratedIndex":{"title":"Calabration and Validation","description":"Discusses the Calibration and Validation need to be done for the bicycle Simulator before it is used.","slug":"/category/calabration-and-validation","permalink":"/BISIMEYER/docs/category/calabration-and-validation","sidebar":"tutorialSidebar","navigation":{"previous":{"title":"Setup of Scenarios","permalink":"/BISIMEYER/docs/Setup_and_Building_of_Simulator/Setup_of_Scenarios"},"next":{"title":"Calabration","permalink":"/BISIMEYER/docs/Calabration_and_Validation/Calabration"}}}}');
+module.exports = /*#__PURE__*/JSON.parse('{"categoryGeneratedIndex":{"title":"Calabration and Validation","description":"Discusses the Calibration and Validation need to be done for the bicycle Simulator before it is used.","slug":"/category/calabration-and-validation","permalink":"/BISIM/docs/category/calabration-and-validation","sidebar":"tutorialSidebar","navigation":{"previous":{"title":"Setup of Scenarios","permalink":"/BISIM/docs/Setup_and_Building_of_Simulator/Setup_of_Scenarios"},"next":{"title":"Calabration","permalink":"/BISIM/docs/Calabration_and_Validation/Calabration"}}}}');
 
 /***/ }),
 
@@ -18731,7 +18731,7 @@ module.exports = /*#__PURE__*/JSON.parse('{"categoryGeneratedIndex":{"title":"Ca
 /***/ ((module) => {
 
 "use strict";
-module.exports = /*#__PURE__*/JSON.parse('{"categoryGeneratedIndex":{"title":"Research Methodology","description":"Discusses the ethics involved witha a bicycle experiment, the measured inputs form the bicycle simulator, and then ends with touching on Simulator Training.","slug":"/category/research-methodology","permalink":"/BISIMEYER/docs/category/research-methodology","sidebar":"tutorialSidebar","navigation":{"previous":{"title":"Validation of Bicycle Simulator","permalink":"/BISIMEYER/docs/Calabration_and_Validation/Valadation"},"next":{"title":"Ethics","permalink":"/BISIMEYER/docs/Reseach_Methodology/ethics"}}}}');
+module.exports = /*#__PURE__*/JSON.parse('{"categoryGeneratedIndex":{"title":"Research Methodology","description":"Discusses the ethics involved witha a bicycle experiment, the measured inputs form the bicycle simulator, and then ends with touching on Simulator Training.","slug":"/category/research-methodology","permalink":"/BISIM/docs/category/research-methodology","sidebar":"tutorialSidebar","navigation":{"previous":{"title":"Validation of Bicycle Simulator","permalink":"/BISIM/docs/Calabration_and_Validation/Valadation"},"next":{"title":"Ethics","permalink":"/BISIM/docs/Reseach_Methodology/ethics"}}}}');
 
 /***/ }),
 
@@ -18739,7 +18739,7 @@ module.exports = /*#__PURE__*/JSON.parse('{"categoryGeneratedIndex":{"title":"Re
 /***/ ((module) => {
 
 "use strict";
-module.exports = /*#__PURE__*/JSON.parse('{"categoryGeneratedIndex":{"title":"Setup and Building of Simulator","description":"In-depth overview of how to build a bicycle simulator to the BISIMEYER Standard.","slug":"/category/setup-and-building-of-simulator","permalink":"/BISIMEYER/docs/category/setup-and-building-of-simulator","sidebar":"tutorialSidebar","navigation":{"previous":{"title":"Software","permalink":"/BISIMEYER/docs/BISIMEYER Overview/Software"},"next":{"title":"Computer Setup","permalink":"/BISIMEYER/docs/Setup_and_Building_of_Simulator/Computer_Setup"}}}}');
+module.exports = /*#__PURE__*/JSON.parse('{"categoryGeneratedIndex":{"title":"Setup and Building of Simulator","description":"In-depth overview of how to build a bicycle simulator to the BISIM Standard.","slug":"/category/setup-and-building-of-simulator","permalink":"/BISIM/docs/category/setup-and-building-of-simulator","sidebar":"tutorialSidebar","navigation":{"previous":{"title":"Software","permalink":"/BISIM/docs/BISIM Overview/Software"},"next":{"title":"Computer Setup","permalink":"/BISIM/docs/Setup_and_Building_of_Simulator/Computer_Setup"}}}}');
 
 /***/ }),
 
@@ -18829,7 +18829,7 @@ module.exports = /*#__PURE__*/JSON.parse('{"name":"docusaurus-plugin-content-pag
 /******/ 	
 /******/ 	/* webpack/runtime/publicPath */
 /******/ 	(() => {
-/******/ 		__webpack_require__.p = "/BISIMEYER/";
+/******/ 		__webpack_require__.p = "/BISIM/";
 /******/ 	})();
 /******/ 	
 /************************************************************************/
