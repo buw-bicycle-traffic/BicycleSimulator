@@ -30,10 +30,8 @@ Location was recorded by the computer and recorded the position of the cyclist w
 
 Gradient is calculated based on the trainer measuring 1 meter infront of the simulated bicycle. The simulator compares the elevation of where the bicycle is and looks 1 metere in from the bicycle and adjust based on the elevation differences. The gradient is then saved by the computer based on this calculation and is sent to the trainer which adjusts the trainers tilt and resistance. 
 
-Visuals were not recorded
-
 ## Future Incorporation 
-Recording of Visuals
-Eye Tracking
-Head Tracking
+Recording of Visuals,
+Eye Tracking,
+Head Tracking, &
 Temperature Monitoring?
