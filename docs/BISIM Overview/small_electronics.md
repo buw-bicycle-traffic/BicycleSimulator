@@ -15,7 +15,7 @@ ANT+ usb is an important piece to communicate with the Wahoo Trainer. This USB w
 
 ## Brakes
 
-XXXXX
+Braking was controlled through the bicycle wahoo trainer. This is a very oversimplified braking system with more or less of an off and on switch. The braking is not varying like in the real world where you can vary how much braking force. Instead the braking is either 100% on or not, which removes realism from the simulator.
 
 ## Steering
 
@@ -23,11 +23,11 @@ XXXXX
 
 ## Wind Simulator
 
-XXXX
+Not yet implemented. Only a household fan was used during experiments to cool off participants. 
 
 ## Heart Rate Monitor
 
-XXXXX
+Polar armband monitor was used. This heart rate monitor can connecct over ANT+ or bluetooth. 
 
 ## Power Meter
 
