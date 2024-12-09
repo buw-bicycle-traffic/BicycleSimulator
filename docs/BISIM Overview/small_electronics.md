@@ -19,7 +19,7 @@ Braking was controlled through the bicycle wahoo trainer. This is a very oversim
 
 ## Steering
 
-XXXXX
+Steering is controlled using a electronic rotary encoder which sends signals to an arduino. The encoder is directly attached to the steering column and takes the measurement and sends them to the arduino. This measurement after being read by the ardino is then sent to the computer to calculate the diretion the simulated bicycle should go in the virtual environment. 
 
 ## Wind Simulator
 
