@@ -34,4 +34,4 @@ Gradient is calculated based on the trainer measuring 1 meter infront of the sim
 Recording of Visuals,
 Eye Tracking,
 Head Tracking, &
-Temperature Monitoring?
+Temperature Monitoring.
