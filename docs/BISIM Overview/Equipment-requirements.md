@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Equipment Requirements
 
-XXXXX
+Here is a list of the required equipment for creating the bicycle simulator. This list is all the equipment which was used to create our experiment. This list is from 09.12.2024. 
 
 ## Bicycle Trainer
 
@@ -49,4 +49,4 @@ Please take these factors into consideration before moving forward to a VR heads
 
 ## Audio
 
-XXXXX
+Audio has not yet been implemented by our simulator. We are missing adding sounds to vehicles, wind noise, and from the bicycle itself. It is the hope that in future installments, that sounds is added to the simulator to increase realism. 
