@@ -49,4 +49,4 @@ Please take these factors into consideration before moving forward to a VR heads
 
 ## Audio
 
-Audio has not yet been implemented by our simulator. We are missing adding sounds to vehicles, wind noise, and from the bicycle itself. It is the hope that in future installments, that sounds is added to the simulator to increase realism. 
+Audio has not yet been implemented in our simulator. We still need to add sounds for vehicles, wind noise, and the bicycle itself. It is hoped that in future updates, sounds will be added to the simulator to enhance realism.
