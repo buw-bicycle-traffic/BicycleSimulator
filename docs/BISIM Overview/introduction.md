@@ -22,7 +22,7 @@ Some basic requirements before getting started with building a bicycle simulator
 
 # Ideal Research for Simulator
 
-XXXXX
+As of December 11, 2024, the ideal research applications for this simulator include testing the validity of gradient simulations in bicycle simulators, particularly for small gradients ranging from -4% to +4%. The simulator can also be employed to evaluate new bicycle infrastructure designs that primarily require a forward-looking view of the infrastructure. While other use cases, such as safety scenarios, could be explored, their validity is constrained by the simulator's limited field of view and lack of audio.
 
 # Requirement Overview
 
