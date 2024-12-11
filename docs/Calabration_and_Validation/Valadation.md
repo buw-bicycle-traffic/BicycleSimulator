@@ -8,15 +8,6 @@ In this chapter, we will discuss why it is important to validate your results, w
 
 ## Why Validate your results?
 
-It is important to validate your results for many reasons such as the transferability of your results to other research, the ability of others to use your research, that your results are valid and comparable to others, and the confirmation that your results are accurate and suitable for your research.  
+Validating results for a bicycle simulator is crucial for ensuring the accuracy and reliability of the data collected. A well-validated simulator can serve as a valuable tool for research, training, and infrastructure design, providing insights that are difficult or impractical to obtain through real-world experiments alone. Validation helps identify and mitigate discrepancies between simulated and real-world conditions, enhancing the simulator's credibility and usefulness. By confirming that the simulator can accurately replicate real-world cycling dynamics, researchers can have confidence in using the simulator to explore various scenarios, test hypotheses, and make data-driven decisions. This validation process is essential for advancing our understanding of cycling behavior, improving bicycle infrastructure, and promoting cycling safety.
 
-Note: this is where our results of experiment will go to see how valid our current setup is and for future experiments for validating the simulator.
-
-Discuss how it compares to real world data. How accurate it is things that can be improved etc. 
-
-Discuss how well it does for bicycle behavior maybe if people ride normally or strangley while biking
-
-Discuss how people behave to traffic signals and signage or if people do not pay attention to these
-
-Discuss about braking behavior.
-
+Using real-world data to validate simulator results is important for several reasons. First, real-world data provides a ground truth against which simulator outputs can be compared, enabling the assessment of the simulator's fidelity. By replicating real-world conditions in the simulator, researchers can ensure that the simulator's responses to various inputs, such as gradient changes, power output, and speed adjustments, align with actual cycling dynamics. Second, real-world data incorporates the natural variability and unpredictability of human behavior and environmental factors, which are challenging to model accurately in a simulator. By validating against real-world data, the simulator can better account for these complexities, enhancing its overall realism and applicability. Additionally, using real-world data helps identify potential biases or limitations in the simulator's design, allowing for targeted improvements and refinements. Ultimately, validating a bicycle simulator with real-world data is vital for establishing its validity, reliability, and generalizability, making it a more robust and useful tool for various applications.
