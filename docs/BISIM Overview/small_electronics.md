@@ -27,7 +27,7 @@ Not yet implemented. Only a household fan was used during experiments to cool of
 
 ## Heart Rate Monitor
 
-Polar armband monitor was used. This heart rate monitor can connecct over ANT+ or bluetooth. 
+For this bicycle simulator a Polar armband monitor was used. This heart rate monitor can be connecct over ANT+ or bluetooth and takes the heart rate from the arm instead of the wrist or from around the chest. Other heart rate monitor can be used that can connect to a bicycle computer or device that can save the heart rate data at 1 second intervals. 
 
 ## Power Meter
 
