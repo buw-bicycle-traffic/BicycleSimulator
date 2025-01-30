@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Calabration
+# Calibration
 
 Calibration of the simulator is a crucial step in ensuring its proper functioning and the authenticity of the results. To perform calibration, it is recommended to conduct a few test runs. It is advisable to have real-world data from an instrumented bicycle, which includes metrics such as power, gradient, speed, heart rate, time, and demographic data from the participants. This data will serve as the basis for verifying that the simulator is in working order.
 
